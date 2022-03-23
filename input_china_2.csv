@@ -1,0 +1,981 @@
+"Project name";"Country";"ISO";"Borrowing entity";"Borrower category";"Year Signed";"Lender";"Amount committed by CDB/ExImBank (USDm)";"Sector";"Within National Protected Areas";"Within Critical Habitats";"Within Indigenous Peoples' Lands";"None Known"
+"Credit Line for Infrastructure Projects";"Iran";"IRN";"Government";"NG - National Government";2016;"CDB";15000;"Other construction";0;0;0;1
+"Oil Export";"Russian Federation";"RUS";"Rosneft";"SOE - State-Owned Entity";2009;"CDB";15000;"Extraction, pipelines";0;0;0;1
+"Oil Export";"Russian Federation";"RUS";"Rosneft";"SOE - State-Owned Entity";2009;"CDB";15000;"Extraction, pipelines";0;0;0;1
+"Freeway, power plant, heavy industry, housing projects";"Venezuela";"VEN";"Government";"NG - National Government";2010;"CDB";14255;"Mulit-sector/discretionary";0;0;0;1
+"Freeway, power plant, heavy industry, housing projects";"Venezuela";"VEN";"Government";"NG - National Government";2010;"CDB";14255;"Mulit-sector/discretionary";0;0;0;1
+"Sonangol Recapitalization";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";10000;"Extraction, pipelines";0;0;0;1
+"Revamping Argentina's train system";"Argentina";"ARG";"Government";"NG - National Government";2010;"CDB, others";10000;"Transport";0;0;0;1
+"Russia-China Oil Pipeline";"Russian Federation";"RUS";"Transneft";"SOE - State-Owned Entity";2009;"CDB";10000;"Extraction, pipelines";0;0;0;1
+"10-Year Oil Supply Plan (10Mt/Year), ""Oil for Loan""";"Brazil";"BRA";"Petrobras";"SOE - State-Owned Entity";2009;"CDB";7000;"Extraction, pipelines";0;0;0;1
+"Bunji Hydropower Project (Bunji Dam)";"Pakistan";"PAK";"Government";"NG - National Government";2009;"ExImBank";6868;"Power";0;0;1;0
+"Karachi Nuclear Power Complex (K-2/K-3)";"Pakistan";"PAK";"Government";"NG - National Government";2014;"ExImBank";6500;"Power";0;1;0;0
+"Expansion And Reconstruction Of Existing Line ML-1";"Pakistan";"PAK";"Ministry of Railways";"NG - National Government";2017;"ExImBank";6120;"Transport";1;1;1;0
+"Moscow-Kazan high-speed rail";"Russian Federation";"RUS";"Government";"NG - National Government";2016;"CDB";6000;"Transport";1;1;0;0
+"Freeway, power plant, heavy industry, housing projects";"Venezuela";"VEN";"Government";"NG - National Government";2010;"CDB";6000;"Mulit-sector/discretionary";0;0;0;1
+"Freeway, power plant, heavy industry, housing projects";"Venezuela";"VEN";"Government";"NG - National Government";2010;"CDB";6000;"Mulit-sector/discretionary";0;0;0;1
+"Healthcare, education, and transportation projects";"Ecuador";"ECU";"Government";"NG - National Government";2015;"ExImBank";5296;"Mulit-sector/discretionary";0;0;0;1
+"Supply Contract to CNOOC, Zhenhua and CNPC";"Brazil";"BRA";"Petrobras";"SOE - State-Owned Entity";2016;"CDB";5000;"Extraction, pipelines";0;0;0;1
+"Preferential Supply Contract with Unipec Asia Company, Loan Disbursed Dec 2017-Jan 2018";"Brazil";"BRA";"Petrobras";"SOE - State-Owned Entity";2017;"CDB";5000;"Extraction, pipelines";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2013;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2013;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2013;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2013;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2013;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2013;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2013;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2013;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2015;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2015;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2015;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2015;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2015;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2015;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2015;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2015;"CDB";5000;"Mulit-sector/discretionary";0;0;0;1
+"Jakarta-Bandung Railway, KCIC";"Indonesia";"IDN";"Government";"NG - National Government";2017;"CDB";4500;"Transport";0;1;0;0
+"Bases Conversion Development Authority infrastrucural project (MOU)";"Philippines";"PHL";"Bases Conversion Development Authority (BCDA)";"SOE - State-Owned Entity";2017;"CDB";4500;"Mulit-sector/discretionary";0;0;0;1
+"Ioujno-Elotenshoie Gas Field (Extension of the 2009 Loan)";"Turkmenistan";"TKM";"Turkmengaz";"SOE - State-Owned Entity";2011;"CDB";4100;"Extraction, pipelines";0;0;0;1
+"Ioujno-Elotenshoie Gas Field (Extension of the 2009 Loan)";"Turkmenistan";"TKM";"Turkmengaz";"SOE - State-Owned Entity";2011;"CDB";4100;"Extraction, pipelines";0;0;0;1
+"Financing for Turkmenistan Gas Fields";"Turkmenistan";"TKM";"Government";"NG - National Government";2013;"CDB";4100;"Extraction, pipelines";0;0;0;1
+"Increase Sinovensa Production in Orinoco ";"Venezuela";"VEN";"Petróleos de Venezuela, S.A. (PDVSA)";"SOE - State-Owned Entity";2013;"CDB";4015;"Extraction, pipelines";0;0;0;1
+"Loan for oil";"Venezuela";"VEN";"The Venezuelan Economic and Social Development Bank (BANDES) and Petróleos de Venezuela, S.A. (PDVSA)";"SOE - State-Owned Entity";2009;"CDB";4000;"Extraction, pipelines";0;0;0;1
+"Orinoco oil production";"Venezuela";"VEN";"The Venezuelan Economic and Social Development Bank (BANDES) and Petróleos de Venezuela, S.A. (PDVSA)";"SOE - State-Owned Entity";2011;"CDB";4000;"Extraction, pipelines";1;1;1;0
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2012;"CDB";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2012;"CDB";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2012;"CDB";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2012;"CDB";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2012;"CDB";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2012;"CDB";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2012;"CDB";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2012;"CDB";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2014;"ExImBank";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2014;"ExImBank";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2014;"ExImBank";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2014;"ExImBank";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2014;"ExImBank";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2014;"ExImBank";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2014;"ExImBank";4000;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Venezuela";"VEN";"Government";"NG - National Government";2014;"ExImBank";4000;"Mulit-sector/discretionary";0;0;0;1
+"Oil Export";"Brazil";"BRA";"Petrobras";"SOE - State-Owned Entity";2015;"CDB";3500;"Extraction, pipelines";0;0;0;1
+"Oil Export";"Brazil";"BRA";"Petrobras";"SOE - State-Owned Entity";2015;"CDB";3500;"Extraction, pipelines";0;0;0;1
+"Gas to Coal Projects";"Ukraine";"UKR";"Naftogaz of Ukraine";"SOE - State-Owned Entity";2012;"CDB";3500;"Power";0;0;0;1
+"Dhaka-Chittagong railway";"Bangladesh";"BGD";"Government";"NG - National Government";2014;"ExImBank";3300;"Transport";0;1;0;0
+"China-Belarus Great Stone Industrial Park";"Belarus";"BLR";"Government";"NG - National Government";2012;"CDB, ExImBank";3000;"Other construction";0;0;0;1
+"Bilateral cooperation agreement, 1st tranche";"Brazil";"BRA";"Petrobras";"SOE - State-Owned Entity";2014;"CDB";3000;"Extraction, pipelines";0;0;0;1
+"Galkynysh Gas Field Development";"Turkmenistan";"TKM";"Government";"NG - National Government";2009;"CDB";3000;"Extraction, pipelines";0;0;0;1
+"Ioujno-Elotenshoie Gas Field (Extension of the 2009 Loan)";"Turkmenistan";"TKM";"Turkmengaz";"SOE - State-Owned Entity";2009;"CDB";3000;"Extraction, pipelines";0;0;0;1
+"Ioujno-Elotenshoie Gas Field (Extension of the 2009 Loan)";"Turkmenistan";"TKM";"Turkmengaz";"SOE - State-Owned Entity";2009;"CDB";3000;"Extraction, pipelines";0;0;0;1
+"Purchase of Agricultural Projects";"Ukraine";"UKR";"Government";"NG - National Government";2012;"ExImBank";3000;"Agriculture, food";0;0;0;1
+"Peshawar-Karachi Motorway (PKM) Project";"Pakistan";"PAK";"Government";"NG - National Government";2016;"ExImBank";2900;"Transport";0;1;1;0
+"Gwadar-Nawabshah LNG terminal and pipeline project";"Pakistan";"PAK";"Government";"NG - National Government";2015;"ExImBank";2706;"Extraction, pipelines";1;1;1;0
+"Karachi-Lahore Motorway";"Pakistan";"PAK";"Government";"NG - National Government";2015;"CDB, ExImBank";2682;"Transport";1;0;1;0
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2013;"CDB";2500;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2013;"CDB";2500;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2013;"CDB";2500;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2013;"CDB";2500;"Extraction, pipelines";0;0;0;1
+"Budhigandaki Hydroelectric Project";"Nepal";"NPL";"Government";"NG - National Government";2017;"ExImBank";2500;"Power";0;0;1;0
+"Europe – China International Transport Route; Various Energy Cooperation";"Russian Federation";"RUS";"Gazprom";"SOE - State-Owned Entity";2016;"CDB";2500;"Extraction, pipelines";0;0;0;1
+"Cóndor Cliff and La Barrancosa dams";"Argentina";"ARG";"Government";"NG - National Government";2014;"CDB";2499;"Power";0;0;0;1
+"Sino-Myanmar Pipeline";"Myanmar";"MMR";"Government";"NG - National Government";2009;"CDB";2400;"Power";1;1;1;0
+"Multisector projects";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";2200;"Mulit-sector/discretionary";0;0;0;1
+"Central Asia-China Gas Pipeline Route C Co-Financed with CNPC";"Uzbekistan";"UZB";"Government";"NG - National Government";2011;"CDB";2200;"Extraction, pipelines";0;0;0;1
+"New Dehydration and Desalination Plant; expansion of Jose Processing Plant in Anzoategui";"Venezuela";"VEN";"Petróleos de Venezuela, S.A. (PDVSA)";"SOE - State-Owned Entity";2016;"CDB";2200;"Mulit-sector/discretionary";0;0;0;1
+"Rehabilitation of Belgrano Cargas railway";"Argentina";"ARG";"Government";"NG - National Government";2014;"CDB, ICBC";2100;"Transport";0;1;1;0
+"Attarat Power Plant";"Jordan";"JOR";"Attarat Power Company (APCO)";"PPP - Public-Private Partnership";2017;"ExImBank";2100;"Power";0;0;1;0
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2011;"CDB";2000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2011;"CDB";2000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2011;"CDB";2000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2011;"CDB";2000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2014;"CDB";2000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2014;"CDB";2000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2014;"CDB";2000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol";"SOE - State-Owned Entity";2014;"CDB";2000;"Extraction, pipelines";0;0;0;1
+"Finance government defecit";"Ecuador";"ECU";"Government";"NG - National Government";2012;"CDB";2000;"Government";0;0;0;1
+"SGR Phase I - Mombasa to Nairobi (Commercial Loan portion; Total= $3.6bn)";"Kenya";"KEN";"Government";"NG - National Government";2014;"ExImBank";2000;"Transport";1;1;0;0
+"East Coast Rail Link";"Malaysia";"MYS";"Government";"NG - National Government";2016;"ExImBank";2000;"Transport";0;1;1;0
+"Southern Luzon Railway";"Philippines";"PHL";"Government";"NG - National Government";2016;"ExImBank";2000;"Transport";0;0;0;1
+"Mabini LNG hub";"Philippines";"PHL";"Philippine National Oil Company";"SOE - State-Owned Entity";2019;"CDB";2000;"Power";0;0;0;1
+"Karachi-Lahore highway";"Pakistan";"PAK";"Pakistan National Highway Authority";"NG - National Government";2014;"ExImBank";1905,6;"Transport";1;0;1;0
+"Belgrade-Budapest rail link";"Hungary";"HUN";"Goverment";"NG - National Government";2014;"ExImBank";1900;"Transport";1;1;0;0
+"Belgrade-Budapest rail link";"Hungary";"HUN";"Goverment";"NG - National Government";2014;"ExImBank";1900;"Transport";1;1;0;0
+"Beineu-Bozoi-Shymkent Gas Pipeline (Construction)";"Kazakhstan";"KAZ";"KazMunayGas";"SOE - State-Owned Entity";2011;"CDB";1800;"Extraction, pipelines";0;0;0;1
+"Astana Light Rail Construction";"Kazakhstan";"KAZ";"Government";"NG - National Government";2015;"CDB";1800;"Transport";0;0;0;1
+"Duyen Hai 2 Thermal Power Plant";"Vietnam";"VNM";"Malakoff Bhd and Shanghai Electric Group (SHANGHAI)";"PPP - Public-Private Partnership";2017;"ExImBank";1800;"Power";0;0;0;1
+"Coca-Codo-Sinclair HPP";"Ecuador";"ECU";"Government";"NG - National Government";2010;"ExImBank";1682,7;"Power";0;1;0;0
+"ENRC iron ore project";"Kazakhstan";"KAZ";"Government";"NG - National Government";2011;"CDB";1600;"Manufacturing";0;0;0;1
+"SGR Phase I - Mombasa to Nairobi; 472.3km (CL portion; Total= $3.6bn)";"Kenya";"KEN";"Government";"NG - National Government";2014;"ExImBank";1600;"Transport";NA;NA;NA;NA
+"Payra 1320 (2x660) MW Thermal Power Plant Project (Kalapara Phase I)";"Bangladesh";"BGD";"Bangladesh-China Power Company Limited";"PPP - Public-Private Partnership";2016;"ExImBank";1560;"Power";0;0;0;1
+"Vnesheconombank corporate loan";"Russian Federation";"RUS";"Vnesheconombank";"SOE - State-Owned Entity";2015;"CDB";1560;"Government";0;0;0;1
+"Orange Line Metro Train Project";"Pakistan";"PAK";"Government";"NG - National Government";2014;"ExImBank";1550;"Transport";0;0;0;1
+"Oil Exploration";"Brazil";"BRA";"Petrobras, Netherland sub-company";"SOE - State-Owned Entity";2015;"CDB";1500;"Extraction, pipelines";0;0;0;1
+"Annual investment plan";"Ecuador";"ECU";"Government";"NG - National Government";2015;"CDB";1500;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Government";"NG - National Government";2016;"CDB";1500;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Government";"NG - National Government";2016;"CDB";1500;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Government";"NG - National Government";2016;"CDB";1500;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Government";"NG - National Government";2016;"CDB";1500;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Government";"NG - National Government";2016;"CDB";1500;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Government";"NG - National Government";2016;"CDB";1500;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Government";"NG - National Government";2016;"CDB";1500;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Government";"NG - National Government";2016;"CDB";1500;"Mulit-sector/discretionary";0;0;0;1
+"Railroad Electrification (between Tehran, Qom and Isfahan)";"Iran";"IRN";"Islamic Republic of Iran Railways (IRIR)";"SOE - State-Owned Entity";2017;"ExImBank";1500;"Transport";0;1;1;0
+"SGR (Phase II: Nairobi to Malaba) - Sub-phase 1; Nairobi to Naivasha Section";"Kenya";"KEN";"Government";"NG - National Government";2015;"ExImBank";1500;"Transport";1;1;0;0
+"Hubco Coal Power Plant";"Pakistan";"PAK";"Government";"NG - National Government";2017;"CDB, ExImBank";1500;"Power";0;0;0;1
+"PDVSA, credit to buy 40% share of Abreu e Lima from Petrobras";"Venezuela";"VEN";"Petróleos de Venezuela, S.A. (PDVSA)";"SOE - State-Owned Entity";2013;"CDB";1500;"Extraction, pipelines";0;0;0;1
+"Karuma Hydroelectric Power Station Construction";"Uganda";"UGA";"Government";"NG - National Government";2015;"ExImBank";1445;"Power";0;0;0;1
+"Coal-fired Thermal Power Plant Project (IPP project) in Hai Duong province, Vietnam with ICBC and CCB";"Vietnam";"VNM";"JAKS, China Power Engineering Consulting Group Co Ltd (CPECC)";"SOE - State-Owned Entity";2015;"ExImBank";1402;"Power";0;0;0;1
+"Expansion and strengthening of power system network under DPDC area project";"Bangladesh";"BGD";"Dhaka Power Distribution Company";"SOE - State-Owned Entity";2019;"ExImBank";1400;"Power";0;0;0;1
+"Slavkali Potash mine";"Belarus";"BLR";"Belarusbank";"SOE - State-Owned Entity";2016;"CDB";1400;"Extraction, pipelines";0;0;0;1
+"West Seti Hydropower Project (Chinese Covering 75% of the Cost)";"Nepal";"NPL";"Nepal Electricity Authority";"SOE - State-Owned Entity";2015;"ExImBank";1350;"Power";0;0;1;0
+"Trade support: 40 E-195 aircrafts";"Brazil";"BRA";"BNDES";"SOE - State-Owned Entity";2015;"ExImBank";1300;"Transport";0;0;0;1
+"Tavan Tolgoi coal railway";"Mongolia";"MNG";"Mongolia";"NG - National Government";2016;"ExImBank";1300;"Extraction, pipelines";1;1;0;0
+"Addis-Djibouti Railway (Tranche C)";"Ethiopia";"ETH";"Government";"NG - National Government";2013;"ExImBank";1289;"Transport";1;1;1;0
+"Lagos-Ibadan Railway Modernization (Project II)";"Nigeria";"NGA";"Government";"NG - National Government";2017;"ExImBank";1267,3;"Transport";0;0;0;1
+"Atyrau Petrochemical Complex";"Kazakhstan";"KAZ";"Government";"NG - National Government";2008;"ExImBank";1260;"Manufacturing";0;0;0;1
+"Soy processing industrial line";"Brazil";"BRA";"Government";"NG - National Government";2015;"CDB";1210;"Agriculture, food";0;0;0;1
+"National Route 1 Rehabilitation (Phase II)";"Congo, Republic of the";"COG";"Government";"NG - National Government";2012;"ExImBank";1208;"Transport";0;0;0;1
+"Bangko Tengah (SS-8) Power Station, aka South Sumatra 8 or Sumsel-8";"Indonesia";"IDN";"PT Huadian Bukit Asam Power";"PPP - Public-Private Partnership";2015;"CDB, ExImBank";1200;"Power";0;0;1;0
+"Emergency Loan- Foreign Exchange";"Pakistan";"PAK";"Government";"NG - National Government";2017;"CDB, ICBC";1200;"Government";0;0;0;1
+"Gas to Oil Processing Plant";"Uzbekistan";"UZB";"Uzbekneftegaz";"SOE - State-Owned Entity";2017;"CDB";1200;"Manufacturing";0;0;0;1
+"Havelian - Thakot Karakoram Highway Phase II (Construction)";"Pakistan";"PAK";"Government";"NG - National Government";2013;"CDB, ExImBank";1170;"Transport";1;0;1;0
+"Vinh Tan 1 Coal-Fired Thermal Power Plant";"Vietnam";"VNM";"China Power International Development Limited Company (possible supplier's credit<U+FF1F>), Power Corporation (Vietnam National Coal-Natural Industries Corporation)";"PPP - Public-Private Partnership";2014;"CDB, ExImBank";1170;"Power";1;1;0;0
+"Mnazi Bay to Dar es Salaam Gas Pipeline Construction";"Tanzania";"TZA";"Government";"NG - National Government";2012;"ExImBank";1164;"Extraction, pipelines";0;0;0;1
+"Polypropylene plant in Atyrau";"Kazakhstan";"KAZ";"Government";"NG - National Government";2011;"ExImBank";1130;"Manufacturing";0;0;0;1
+"Oil refinery";"Venezuela";"VEN";"Petróleos de Venezuela, S.A. (PDVSA)";"SOE - State-Owned Entity";2010;"CDB";1125;"Manufacturing";0;0;0;1
+"San Martin freight railway upgrading";"Argentina";"ARG";"Government";"NG - National Government";2018;"ExImBank";1088;"Transport";0;1;1;0
+"Duyen Hai 1 with Sinosure";"Vietnam";"VNM";"Government";"NG - National Government";2011;"ExImBank";1008;"Power";0;1;0;0
+"Sonangol Development";"Angola";"AGO";"Sonangol Finance Ltd.";"SOE - State-Owned Entity";2012;"CDB";1000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol Finance Ltd.";"SOE - State-Owned Entity";2012;"CDB";1000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol Finance Ltd.";"SOE - State-Owned Entity";2012;"CDB";1000;"Extraction, pipelines";0;0;0;1
+"Sonangol Development";"Angola";"AGO";"Sonangol Finance Ltd.";"SOE - State-Owned Entity";2012;"CDB";1000;"Extraction, pipelines";0;0;0;1
+"Rositas Hydroelectric Power Plant";"Bolivia";"BOL";"ENDE";"SOE - State-Owned Entity";2016;"ExImBank";1000;"Power";1;1;0;0
+"Bolster foreign exchange reserves";"Egypt";"EGY";"Central Bank of Egypt";"NG - National Government";2016;"CDB";1000;"Government";0;0;0;1
+"Bolster foreign exchange reserves";"Egypt";"EGY";"Central Bank of Egypt";"NG - National Government";2016;"CDB";1000;"Government";0;0;0;1
+"Nam Ou hydropower project, phase 2 (Nam Ou 1, 3, 4, 7)";"Laos";"LAO";"Electicite du Laos (EdL) & Sinohydro Joint Venture";"PPP - Public-Private Partnership";2011;"CDB";1000;"Power";0;1;0;0
+"Trade: vessels and offshore oilfield equipment";"Mexico";"MEX";"PEMEX";"SOE - State-Owned Entity";2013;"ExImBank";1000;"Extraction, pipelines";0;0;0;1
+"Hambantota Natural Gas-Powered Electrical Station";"Sri Lanka";"LKA";"Government";"NG - National Government";2018;"ExImBank";1000;"Power";0;0;0;1
+"CVG (mining)";"Venezuela";"VEN";"Corporacion Venezolana de Guayana (CVG)";"SOE - State-Owned Entity";2009;"CDB";1000;"Extraction, pipelines";0;1;0;0
+"Duyen Hai 3 with Sinosure/BOC & ICBC";"Vietnam";"VNM";"Vietnam Electricity (EVN)";"SOE - State-Owned Entity";2012;"CDB";1000;"Power";0;0;0;1
+"Hwange Thermal Power Station Expansion (Unit 7-8)";"Zimbabwe";"ZWE";"Government";"NG - National Government";2017;"ExImBank";998;"Power";0;0;0;1
+"Subic-Clark Railway Project";"Philippines";"PHL";"Government";"NG - National Government";2016;"ExImBank";995,12;"Transport";0;1;0;0
+"Central Expressway Project - Phase I, Stage I";"Sri Lanka";"LKA";"Government";"NG - National Government";2018;"ExImBank";989;"Transport";1;1;0;0
+"Zungeru Hydropower Plant Project";"Nigeria";"NGA";"Government";"NG - National Government";2013;"ExImBank";984,32;"Power";0;0;1;0
+"Addis-Djibouti Railway (Tranche B)";"Ethiopia";"ETH";"Government";"NG - National Government";2013;"ExImBank";981;"Transport";1;1;1;0
+"Sberbank Modernization of Eurocement";"Russian Federation";"RUS";"Sberbank of Russia";"SOE - State-Owned Entity";2015;"CDB";966;"Manufacturing";0;0;0;1
+"Rahim Yar Khan Coal Fired Plant";"Pakistan";"PAK";"Nishat Energy Limited (NEL)";"SOE - State-Owned Entity";2016;"ExImBank";956;"Power";0;0;0;1
+"Caio Port in Cabinda & Sinosure Premium";"Angola";"AGO";"Government";"NG - National Government";2016;"ExImBank";932;"Transport";0;0;0;1
+"Construction of Bar-Boljare Motorway";"Montenegro";"MNE";"Government";"NG - National Government";2014;"ExImBank";911,5;"Transport";1;1;0;0
+"Development Assistance";"Ecuador";"ECU";"Go";"NG - National Government";2018;"CDB";900;"Government";0;0;0;1
+"Medupi Coal Power Plant Construction";"South Africa";"ZAF";"Eskom";"SOE - State-Owned Entity";2018;"CDB";900;"Power";0;0;0;1
+"Norochcholai (Lakvijaya) Power Plant Phase 2";"Sri Lanka";"LKA";"Ceylon Electricity Board";"SOE - State-Owned Entity";2009;"ExImBank";891;"Power";0;0;0;1
+"VEB Development of Blockchain Technologies";"Russian Federation";"RUS";"Vnesheconombank";"SOE - State-Owned Entity";2017;"CDB";882,35;"Telecom";0;0;0;1
+"Tuzla 7 Lignite Power Plant";"Bosnia & Herzegovina";"BIH";"Elektroprivreda BiH";"SOE - State-Owned Entity";2011;"ExImBank";881,88;"Power";0;0;0;1
+"Siem Reap New International Airport, Siem Reap";"Cambodia";"KHM";"Government";"NG - National Government";2013;"CDB, ExImBank";880;"Transport";0;0;0;1
+"Celukan Bawang";"Indonesia";"IDN";"Government";"NG - National Government";2012;"CDB";880;"Power";0;1;1;0
+"Western Corridor Gas Infrastructure Project (Jubilee Oil Field)";"Ghana";"GHA";"Government";"NG - National Government";2013;"CDB";850;"Extraction, pipelines";0;0;0;1
+"Road Upgrading Project Nabouwalu Dreketi";"Fiji";"FJI";"Government";"NG - National Government";2012;"ExImBank";840;"Transport";1;1;0;0
+"Hambantota Deep Sea Port Phase II (PPP)";"Sri Lanka";"LKA";"Government";"NG - National Government";2012;"ExImBank";809,4;"Transport";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2010;"CDB";800;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2010;"CDB";800;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2010;"CDB";800;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2010;"CDB";800;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2010;"CDB";800;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2010;"CDB";800;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2010;"CDB";800;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2010;"CDB";800;"Power";0;0;0;1
+"Abidjan Port Expansion";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2014;"ExImBank";793;"Transport";0;0;0;1
+"Balloki Combined Cycle Power Plant";"Pakistan";"PAK";"NPPMCL";"PPP - Public-Private Partnership";2015;"ExImBank";785,4;"Power";0;0;0;1
+"National Power Grid Upgrade (Tranche A)";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2015;"ExImBank";776;"Power";0;0;0;1
+"Electric Power Distribution";"Serbia";"SRB";"Elektroprivreda Srbije (EPS)";"SOE - State-Owned Entity";2017;"ExImBank";715;"Mulit-sector/discretionary";0;0;0;1
+"Karnaphuli River Bridge";"Bangladesh";"BGD";"Government";"NG - National Government";2014;"ExImBank";705;"Transport";0;0;0;1
+"Infrastructure Projects";"Egypt";"EGY";"National Bank of Egypt";"SOE - State-Owned Entity";2016;"CDB";700;"Other construction";0;0;0;1
+"Cilacap Sumber Power Station with BOC and Bank Rakyat Indonesia";"Indonesia";"IDN";"Government";"NG - National Government";2013;"CDB";700;"Power";0;0;0;1
+"Cilacap Power Plant Extension Project";"Indonesia";"IDN";"Sumber Segara Primadaya";"PPP - Public-Private Partnership";2013;"CDB";700;"Power";0;0;0;1
+"New Khartoum International Airport Construction";"Sudan";"SDN";"Government";"NG - National Government";2014;"ExImBank";700;"Transport";0;0;0;1
+"Las Cristinas gold mine";"Venezuela";"VEN";"Government";"NG - National Government";2013;"CDB";700;"Extraction, pipelines";1;1;1;0
+"Oil Tanker Mooring Platform, Underwater and Onshore Pipeline";"Bangladesh";"BGD";"Government";"NG - National Government";2017;"ExImBank";694;"Extraction, pipelines";0;0;0;1
+"Egyptian Unified Power Grid (Transmission Stations, Cable, Transmitter, 500kV Electricity Line)";"Egypt";"EGY";"Egyptian Electricity Transmission Company";"SOE - State-Owned Entity";2017;"BOC, CDB, ExImBank";690;"Power";0;1;1;0
+"Thies-Touba Toll Highway Construction";"Senegal";"SEN";"Government";"NG - National Government";2015;"ExImBank";689;"Transport";0;0;1;0
+"Maputo-Catembe Bridge Construction";"Mozambique";"MOZ";"Government";"NG - National Government";2012;"ExImBank";686,1;"Transport";0;1;0;0
+"Delsitanisagua, Minas-San Francisco, Mazar-Dudas dams (loan info and coordinates for Delsitanisagua)";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";680;"Power";0;1;0;0
+"Yaounde Potable Water Supply";"Cameroon";"CMR";"Government";"NG - National Government";2015;"ExImBank";678;"Government";0;1;0;0
+"Vung Ang Power Station";"Vietnam";"VNM";"Petrovietnam";"SOE - State-Owned Entity";2011;"CDB";673;"Power";0;0;0;1
+"Transnet Locomotive Purchases (partial 2nd disbursement)";"South Africa";"ZAF";"Transnet";"SOE - State-Owned Entity";2017;"CDB";667;"Transport";0;0;0;1
+"Nam Ou hydropower project, phase 1 (Dams 2, 5, 6)";"Laos";"LAO";"Electicite du Laos (EdL) & Sinohydro Joint Venture";"PPP - Public-Private Partnership";2012;"CDB";660;"Power";0;1;1;0
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";632,5;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";632,5;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";632,5;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";632,5;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";632,5;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";632,5;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";632,5;"Power";0;0;0;1
+"Discretionary";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";632,5;"Power";0;0;0;1
+"Al-Fulah Power Plant Construction";"Sudan";"SDN";"Government";"NG - National Government";2009;"ExImBank";612;"Power";0;0;0;1
+"Kostolac B2 (retrofit), Kostolac B3 (new), and Expansion of Drmno Mine";"Serbia";"SRB";"Government";"NG - National Government";2013;"ExImBank";608;"Power";0;0;0;1
+"Rurrenabaque-Riberalta roadway";"Bolivia";"BOL";"Government";"NG - National Government";2015;"ExImBank";600;"Transport";1;1;1;0
+"Electrical distribution system upgrade";"Dominican Republic";"DMA";"Government";"NG - National Government";2018;"ExImBank";600;"Power";0;0;0;1
+"OIl - related";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";600;"Power";0;0;0;1
+"Interbank loan";"Egypt";"EGY";"National Bank of Egypt";"SOE - State-Owned Entity";2018;"CDB";600;"Government";0;0;0;1
+"151 Multisector infrastructure projects";"Kenya";"KEN";"Central Bank of Kenya";"NG - National Government";2016;"CDB";600;"Mulit-sector/discretionary";0;0;0;1
+"Hambantota Port Development Project -Phase II Preferential Buyer Credit";"Sri Lanka";"LKA";"Government";"NG - National Government";2012;"ExImBank";600;"Transport";0;0;0;1
+"Souapiti Hydropower Project (450MW)";"Guinea";"GIN";"Souapiti Hydropower SPV";"PPP - Public-Private Partnership";2018;"ExImBank";599;"Power";0;0;0;1
+"Kicevo-Ohrid Highway Construction";"Macedonia";"MKD";"Government";"NG - National Government";2013;"ExImBank";580;"Transport";0;1;0;0
+"Neelum-Jhelum Hydro Station";"Pakistan";"PAK";"Government";"NG - National Government";2015;"ExImBank";576;"Power";0;1;1;0
+"Neelum-Jhelum Hydro Station";"Pakistan";"PAK";"Government";"NG - National Government";2015;"ExImBank";576;"Power";0;1;1;0
+"Electrification Contract-30,000 Home Connections (Luanda City)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";574;"Power";0;0;0;1
+"Sopladora Hydroelectric Dam";"Ecuador";"ECU";"Government";"NG - National Government";2010;"ExImBank";571;"Power";0;0;0;1
+"Indramayu Sumuradem Power Station";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2008;"CDB";562;"Power";0;0;0;1
+"Hai Phong Thermal Power Plant Phase 2";"Vietnam";"VNM";"Government";"NG - National Government";2008;"ExImBank";557;"Power";0;0;0;1
+"Single point mooring with double pipelines";"Bangladesh";"BGD";"Bangladesh Petroleum Corporation";"SOE - State-Owned Entity";2016;"ExImBank";542,04;"Extraction, pipelines";0;1;0;0
+"Memve'ele Hydropower Project (211MW)";"Cameroon";"CMR";"Government";"NG - National Government";2012;"ExImBank";541;"Power";0;1;0;0
+"Stung Tatay Hydropower Project Main Project";"Cambodia";"KHM";"Government";"NG - National Government";2010;"ExImBank";540;"Power";1;1;1;0
+"Kribi Port Project (Phase II); PEBC portion";"Cameroon";"CMR";"Government";"NG - National Government";2016;"ExImBank";525;"Transport";0;0;0;1
+"Equipment purchase";"Morocco";"MAR";"Government";"NG - National Government";2008;"ExImBank";515;"Mulit-sector/discretionary";0;0;0;1
+"Oyala (Djibloho) New Capital and Social Housing Construction: 10 Administrative Buildings; Social Housing-500 Units ; 1200 Units of Presidential Palace Administrative Districts";"Equatorial Guinea";"GNQ";"Government";"NG - National Government";2017;"ExImBank";510;"Other construction";0;0;0;1
+"Nzeto-Soyo Road Construction";"Angola";"AGO";"Government";"NG - National Government";2015;"ExImBank";509;"Transport";0;1;0;0
+"Pipeline Project to Carry Crude Oil";"Bangladesh";"BGD";"Government";"NG - National Government";2015;"ExImBank";509;"Extraction, pipelines";0;0;0;1
+"Coca Codo Sinclair Hydroelelectric Facility";"Ecuador";"ECU";"Government";"NG - National Government";2014;"ExImBank";509;"Power";0;1;0;0
+"Manado-Bitung Toll Road";"Indonesia";"IDN";"Government";"NG - National Government";2017;"ExImBank";503;"Transport";0;1;1;0
+"Brazzaville Mall Construction";"Congo, Republic of the";"COG";"Government";"NG - National Government";2014;"ExImBank";502;"Other construction";0;0;0;1
+"Rajshahi Surface Water Treatment Plant Project";"Bangladesh";"BGD";"Government";"NG - National Government";2014;"ExImBank";500;"Government";0;0;0;1
+"Soubre Hydropower Project (275MW)";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2013;"ExImBank";500;"Power";0;0;0;1
+"Infrastructure projects";"Ecuador";"ECU";"Government";"NG - National Government";2016;"CDB";500;"Other construction";0;0;0;1
+"Interbank financing";"Egypt";"EGY";"Banque Misr";"SOE - State-Owned Entity";2017;"CDB";500;"Government";0;0;0;1
+"Welkait Sugar Mill Construction";"Ethiopia";"ETH";"Commercial Bank of Ethiopia";"SOE - State-Owned Entity";2014;"ExImBank";500;"Agriculture, food";0;1;0;0
+"Abuja/Idu-Kaduna Railroad Project";"Nigeria";"NGA";"Government";"NG - National Government";2010;"ExImBank";500;"Transport";1;0;1;0
+"Abuja Light Rail Project";"Nigeria";"NGA";"Government";"NG - National Government";2012;"ExImBank";500;"Transport";1;0;1;0
+"Transmission Capacity Upgrade";"Nigeria";"NGA";"Government";"NG - National Government";2013;"ExImBank";500;"Power";0;0;0;1
+"4 Airport Terminals Expansion";"Nigeria";"NGA";"Government";"NG - National Government";2014;"ExImBank";500;"Transport";0;0;1;0
+"Banking sector finance";"Pakistan";"PAK";"Government";"NG - National Government";2016;"CDB";500;"Government";0;0;0;1
+"Boost African Trade";"Regional";NA;"African Export Import Bank";"Regional body";2018;"CDB";500;"Government";0;0;0;1
+"Medupi, Kusile and Ingula Power Stations Construction";"South Africa";"ZAF";"Eskom";"SOE - State-Owned Entity";2016;"CDB";500;"Power";1;1;0;0
+"Rehabilitation and Improvement of Priority Road Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2011;"CDB";500;"Transport";0;0;0;1
+"Rehabilitation and Improvement of Priority Road Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2011;"CDB";500;"Transport";0;0;0;1
+"Unspecified";"Venezuela";"VEN";NA;"NG - National Government";2009;"ExImBank";500;"Mulit-sector/discretionary";0;0;0;1
+"Trade support: oil-related goods";"Venezuela";"VEN";"Petróleos de Venezuela, S.A. (PDVSA)";"SOE - State-Owned Entity";2012;"CDB";500;"Power";0;0;0;1
+"Construction of Outer Circular Highway Project – Phase III";"Sri Lanka";"LKA";"Government";"NG - National Government";2014;"ExImBank";494;"Transport";0;0;0;1
+"Addis-Djibouti Railway Construction (Ali Sabieh to Nagad)";"Djibouti";"DJI";"Government";"NG - National Government";2013;"ExImBank";492;"Transport";0;1;0;0
+"Olkaria V Geothermal Drilling";"Kenya";"KEN";"Kenya Electricity Generating Company (KenGen)";"PPP - Public-Private Partnership";2012;"ExImBank";484,3;"Power";1;1;0;0
+"Yaoundé-Douala Highway Construction (Phase I)";"Cameroon";"CMR";"Government";"NG - National Government";2012;"ExImBank";483;"Transport";0;1;0;0
+"Isimba Hydroelectric Power Station (183 MW)";"Uganda";"UGA";"Government";"NG - National Government";2015;"ExImBank";483;"Power";0;0;0;1
+"Pelabuhan Ratu Power Station";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2009;"ExImBank";481;"Power";0;0;0;1
+"115kV Transmission Line and Substation from Phnom Penh to Bavet Project";"Cambodia";"KHM";"Electricite Du Cambodge";"SOE - State-Owned Entity";2009;"ExImBank";475;"Power";0;0;0;1
+"Addis-Ababa Light Rail Project";"Ethiopia";"ETH";"Government";"NG - National Government";2011;"ExImBank";475;"Transport";0;0;1;0
+"Caxito/N'zeto/M'banza Congo Road Construction";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";465;"Transport";0;1;0;0
+"China-Laos Railway Project";"Laos";"LAO";"Government";"NG - National Government";2016;"ExImBank";465;"Transport";0;1;1;0
+"Transnet Locomotive Purchases (1st Disbursement)";"South Africa";"ZAF";"Transnet";"SOE - State-Owned Entity";2016;"CDB";464;"Transport";0;0;0;1
+"Abuja-Keffi-Makurdi Road Project Rehabilitation and Upgrade";"Nigeria";"NGA";"Government";"NG - National Government";2017;"ExImBank";460,82;"Transport";1;0;1;0
+"North/South toll highway construction";"Jamaica";"JAM";"Government";"NG - National Government";2013;"ExImBank";457;"Transport";1;1;0;0
+"Neelum-Jhelum Hydro Station";"Pakistan";"PAK";"Government";"NG - National Government";2012;"ExImBank";448;"Power";0;1;1;0
+"Neelum-Jhelum Hydro Station";"Pakistan";"PAK";"Government";"NG - National Government";2012;"ExImBank";448;"Power";0;1;1;0
+"Sicomine Copper Mining Project";"Congo, Democratic Republic of the";"COD";"Sicomine";"PPP - Public-Private Partnership";2008;"ExImBank";429;"Extraction, pipelines";0;0;0;1
+"El Sillar highway";"Bolivia";"BOL";"Government";"NG - National Government";2015;"ExImBank";426;"Transport";1;1;0;0
+"Kribi Port Project (Phase I)";"Cameroon";"CMR";"Government";"NG - National Government";2011;"ExImBank";423;"Transport";0;0;1;0
+"Lower Stung Russey Chrum/Orussei Hydropower Project";"Cambodia";"KHM";"Government";"NG - National Government";2013;"ExImBank";412;"Power";1;1;1;0
+"Southern Expressway Extension- Section 4 from Mattala to Hambantota";"Sri Lanka";"LKA";"Government";"NG - National Government";2014;"ExImBank";411,53;"Transport";1;1;0;0
+"ENRC chrome project";"Kazakhstan";"KAZ";"Government";"NG - National Government";2011;"CDB";400;"Manufacturing";0;0;0;1
+"Third Unit of Ekibastuz GRES-2 Power Plant with Russia";"Kazakhstan";"KAZ";"Government";"NG - National Government";2013;"CDB";400;"Power";0;0;0;1
+"North-South Transport Corridor (Phase 1)";"Kyrgyz Republic";"KGZ";"Government";"NG - National Government";2014;"ExImBank";400;"Transport";0;0;0;1
+"Alternative North-South Highway Kyzyl-Jyldyz - Aral and Karzarm - Jalal-Abad (Rehabilitation)";"Kyrgyzstan";"KGZ";"Government";"NG - National Government";2013;"ExImBank";400;"Transport";0;0;0;1
+"Nam Tha 1 Hydro Power Project";"Laos";"LAO";"Electicite du Laos (EdL) & China Southern Power Grid (SOE)";"PPP - Public-Private Partnership";2018;"ExImBank";400;"Power";0;0;0;1
+"Myanmar farm equipment and machinery";"Myanmar";"MMR";"Government";"NG - National Government";2015;"ExImBank";400;"Agriculture, food";0;0;0;1
+"National Public Communication System Construction";"Nigeria";"NGA";"Government";"NG - National Government";2010;"ExImBank";399,5;"Telecom";0;0;0;1
+"El Mutun steel project";"Bolivia";"BOL";"Government";"NG - National Government";2016;"ExImBank";396,1;"Other construction";0;1;0;0
+"San José - Limón highway";"Costa Rica";"CRI";"Government";"NG - National Government";2015;"ExImBank";395;"Transport";1;1;0;0
+"Morón, Carabobo port";"Venezuela";"VEN";"Petróleos de Venezuela, S.A. (PDVSA)";"SOE - State-Owned Entity";2013;"ExImBank";391;"Transport";0;0;0;1
+"Datka-Kemin (Chuy) Transmission Line and powerplant";"Kyrgyz Republic";"KGZ";"Government";"NG - National Government";2012;"ExImBank";390;"Power";1;0;0;0
+"Greater Abuja Water Supply Project";"Nigeria";"NGA";"Government";"NG - National Government";2018;"ExImBank";389;"Government";0;0;0;1
+"Kribi-Lolabe Expressway Construction (Phase I)";"Cameroon";"CMR";"Government";"NG - National Government";2014;"ExImBank";386;"Transport";0;1;1;0
+"Bishkek Power Station Units 12 and 13";"Kyrgyz Republic";"KGZ";"Government";"NG - National Government";2013;"ExImBank";386;"Power";0;0;0;1
+"Olkaria IV Drilling Geothermal Stream";"Kenya";"KEN";"Government";"NG - National Government";2012;"ExImBank";382,5;"Power";1;1;0;0
+"Berezov Combined Cycle Power Plant";"Belarus";"BLR";"Government";"NG - National Government";2010;"ExImBank";378;"Power";0;0;0;1
+"Salavan-Sekong II Power Transmission Project";"Laos";"LAO";"Government";"NG - National Government";2016;"ExImBank";377;"Power";1;1;1;0
+"Taunsa hydro electric project";"Pakistan";"PAK";"Government of Punjab";"SNG - Sub-national Government";2011;"ExImBank";377;"Power";0;0;0;1
+"Expansion and Upgrading of Ibrahim Nasir International Airport in Hulhule'";"Maldives";"MDV";"Government";"NG - National Government";2015;"ExImBank";373,84;"Transport";0;1;0;0
+"Pangkalan Susu Power Plant Phase II Unit I";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2014;"ExImBank";373;"Power";0;1;0;0
+"Pangkalan Susu Power Plant Phase II Unit II";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2014;"ExImBank";373;"Power";0;0;0;1
+"Pangkalan Susu Power Plant Phase I Unit II";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2014;"ExImBank";373;"Power";0;0;0;1
+"86-MW Nam Phay hydropower project";"Laos";"LAO";"Electicite du Laos (EdL) & Norinco (SOE) Joint Venture";"PPP - Public-Private Partnership";2017;"ExImBank";367,29;"Power";0;1;1;0
+"Zongo II Hydropower Station";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2011;"ExImBank";367;"Power";0;0;0;1
+"Buca Bay and Moto Road improvement";"Fiji";"FJI";"Government";"NG - National Government";2013;"ExImBank";366;"Transport";0;1;0;0
+"Airforce Residential Housing Unit Construction";"Zambia";"ZMB";"Government";"NG - National Government";2010;"ExImBank";365,5;"Government";1;0;0;0
+"Lusaka International Airport";"Zambia";"ZMB";"Government";"NG - National Government";2014;"ExImBank";360;"Transport";0;0;0;1
+"Presidente Médici Candiota Power Station (Third Expansion)";"Brazil";"BRA";"Government";"NG - National Government";2008;"CDB";356;"Power";0;1;0;0
+"Kampala-Entebbe Express Highway Construction";"Uganda";"UGA";"Government";"NG - National Government";2011;"ExImBank";350;"Transport";1;1;0;0
+"Qamchiq Tunnel (Angren-Pap Railway Line)";"Uzbekistan";"UZB";"Government";"NG - National Government";2013;"ExImBank";350;"Transport";0;1;0;0
+"Pap-Angren Railway";"Uzbekistan";"UZB";"Government";"NG - National Government";2015;"ExImBank";350;"Transport";0;1;0;0
+"Addis-Adama Expressway Construction (Phase I)";"Ethiopia";"ETH";"Government";"NG - National Government";2009;"ExImBank";349;"Transport";0;1;1;0
+"Bamako-Segou Road Renovation";"Mali";"MLI";"Government";"NG - National Government";2010;"ExImBank";346;"Transport";0;0;1;0
+"Nam Ngiep 2 hydropower plant";"Laos";"LAO";"Electicite du Laos (EdL) & China International Water & Electric Corp (CWE)";"PPP - Public-Private Partnership";2011;"CDB";345;"Power";0;1;1;0
+"Doraleh Multipurpose Port and Damerjob Livestock Port Project";"Djibouti";"DJI";"Government";"NG - National Government";2016;"ExImBank";344;"Transport";0;1;0;0
+"Electrification Contract- 30,000 Household Connections (Cabinda City)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";340;"Power";0;1;0;0
+"Lauca-Huambo Electricity System Construction";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";340;"Power";0;0;0;1
+"Reconstruction of the Zhlobin-Gomel section of M-5/E 271 Minsk-Gomel highway";"Belarus";"BLR";"Government";"NG - National Government";2011;"ExImBank";340;"Transport";0;0;0;1
+"Jamaica Development Infrastructure Programme (JDIP)";"Jamaica";"JAM";"Government";"NG - National Government";2010;"ExImBank";340;"Transport";0;0;0;1
+"Ndola International Airport (Phase I)";"Zambia";"ZMB";"Government";"NG - National Government";2016;"ExImBank";338;"Transport";0;0;0;1
+"E-Government Project 3";"Angola";"AGO";"Government";"NG - National Government";2009;"ExImBank";337;"Telecom";0;0;0;1
+"Obrenovac-Uba and Lajkovac-Ljig Road projects";"Serbia";"SRB";"Government";"NG - National Government";2014;"ExImBank";334;"Transport";0;0;0;1
+"Cauchari Solar Park (I, II and III)";"Argentina";"ARG";"Government";"NG - National Government";2017;"ExImBank";331,5;"Power";0;0;0;1
+"Road Construction (from Blaise-Diagne International Airport)";"Senegal";"SEN";"Government";"NG - National Government";2015;"ExImBank";331;"Transport";1;0;0;0
+"Navy Patrol Vessels Purchase (P108 and P109)";"Cameroon";"CMR";"Government";"NG - National Government";2012;"ExImBank";330;"Government";0;0;0;1
+"N'Djamena Oil Refinery Construction";"Chad";"TCD";"N'Djamena Refinery Company";"PPP - Public-Private Partnership";2011;"ExImBank";330;"Manufacturing";0;0;1;0
+"Paiton Power Plant Unit 9";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2008;"ExImBank";330;"Power";0;0;1;0
+"Staung River Basin Water Resources Development Project Phase I";"Cambodia";"KHM";"Government";"NG - National Government";2013;"ExImBank";329,75;"Government";0;0;0;1
+"Mpila Twin Tower Business Center Construction";"Congo, Republic of the";"COG";"Government";"NG - National Government";2014;"ExImBank";328,1;"Other construction";0;0;0;1
+"National Telecom Broadband Network Project (Phase II)";"Cameroon";"CMR";"Camtel";"SOE - State-Owned Entity";2015;"ExImBank";328;"Telecom";0;0;1;0
+"Roads Improvement Sigatoka-Serea";"Fiji";"FJI";"Government";"NG - National Government";2014;"ExImBank";328;"Transport";1;1;0;0
+"Basic Communication Network Construction";"Nigeria";"NGA";"Galaxy Backbone";"SOE - State-Owned Entity";2018;"ExImBank";328;"Telecom";0;0;0;1
+"Road network";"Jamaica";"JAM";"Government";"NG - National Government";2016;"ExImBank";327;"Transport";0;0;0;1
+"Karakoram Highway";"Pakistan";"PAK";"Government";"NG - National Government";2008;"ExImBank";327;"Transport";0;1;1;0
+"Bangladesh fertilizer factory";"Bangladesh";"BGD";"Bangladesh Chemical Industries Corporation";"SOE - State-Owned Entity";2009;"ExImBank";326;"Manufacturing";0;0;0;1
+"M5 Upgrade (Bobruysk - Zhlobin)";"Belarus";"BLR";"Government";"NG - National Government";2012;"ExImBank";322;"Transport";0;0;0;1
+"Djibouti-Ethiopia Water Pipeline";"Djibouti";"DJI";"Government";"NG - National Government";2013;"ExImBank";322;"Government";0;1;1;0
+"Nam Ngum 4a Hydropower Station";"Laos";"LAO";"Government";"NG - National Government";2016;"ExImBank";322;"Power";1;1;1;0
+"Grand Poubara Dam Project";"Gabon";"GAB";"Government";"NG - National Government";2008;"ExImBank";318;"Power";0;0;1;0
+"Sumsel (SS-5) Power Station";"Indonesia";"IDN";"Government";"NG - National Government";2013;"CDB";318;"Power";0;0;0;1
+"Pangkalan Susu Unit 3 & 4 Coal Fired Power Plant";"Indonesia";"IDN";"Indonesian State Electricity Company";"SOE - State-Owned Entity";2013;"ExImBank";317,46;"Power";0;1;0;0
+"720MW Kariba North Bank Hydropower Project Extension";"Zambia";"ZMB";"Government";"NG - National Government";2008;"ExImBank";315,6;"Power";1;1;0;0
+"Lusaka Urban Road L400 Construction (Phase II)";"Zambia";"ZMB";"Government";"NG - National Government";2016;"ExImBank";313;"Transport";0;0;0;1
+"Minas-San Francisco Hydroelectric Dam (in Addition to the 2011 CDB loan)";"Ecuador";"ECU";"Government";"NG - National Government";2013;"ExImBank";312,48;"Power";0;0;0;1
+"EN6 Road Repair (Beira to Machipanda) (Loan 2)";"Mozambique";"MOZ";"Government";"NG - National Government";2014;"ExImBank";312;"Transport";0;0;0;1
+"Nam Khan 2 Dam";"Laos";"LAO";"Government";"NG - National Government";2009;"ExImBank";308;"Power";0;1;1;0
+"Jerada Coal Power Station Extension";"Morocco";"MAR";"ONEE";"SOE - State-Owned Entity";2014;"ExImBank";304,5;"Power";0;0;1;0
+"National Route 2; Owando-Makoua-Ouesso Road; Owando-Makoua-Mambili Construction (Phase 1)";"Congo, Republic of the";"COG";"Government";"NG - National Government";2009;"ExImBank";303;"Transport";1;1;1;0
+"Northern Road Rehabilitation Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2010;"ExImBank";302,3;"Transport";0;0;0;1
+"Corridor 11 Highway Construction";"Serbia";"SRB";"Government";"NG - National Government";2015;"ExImBank";301;"Transport";1;1;0;0
+"Trade support: Chinese helicopters";"Bolivia";"BOL";"Government";"NG - National Government";2011;"CDB";300;"Transport";0;0;0;1
+"Trade support";"Brazil";"BRA";"Bank of Brazil";"SOE - State-Owned Entity";2017;"ExImBank";300;"Mulit-sector/discretionary";0;0;0;1
+"Road and bridge rehabilitation projects";"Jamaica";"JAM";"Government";"NG - National Government";2013;"ExImBank";300;"Transport";0;0;0;1
+"Kyrgyzstan Road";"Kyrgyzstan";"KGZ";"Government";"NG - National Government";2015;"ExImBank";300;"Transport";0;0;0;1
+"Maputo Ring Road Construction";"Mozambique";"MOZ";"Government";"NG - National Government";2012;"ExImBank";300;"Transport";0;0;0;1
+"Rehabilitation and Improvement of Priority Road Project 3 Phase I";"Sri Lanka";"LKA";"Government";"NG - National Government";2014;"CDB";300;"Transport";0;0;0;1
+"PVC plant construction";"Uzbekistan";"UZB";"Government";"NG - National Government";2014;"ExImBank";300;"Manufacturing";0;0;0;1
+"Vinh Tan 2 Power Plant";"Vietnam";"VNM";"Vietnam Electricity (EVN)";"SOE - State-Owned Entity";2010;"ExImBank";300;"Power";1;1;0;0
+"220kV Substation (Kinsuka and Associated Distribution Networks)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2018;"ExImBank";299;"Power";0;0;0;1
+"Alternative North-South Road";"Kyrgyzstan";"KGZ";"Government";"NG - National Government";2015;"ExImBank";298;"Transport";1;0;0;0
+"Belgrade-Budapest rail link";"Serbia";"SRB";"Government";"NG - National Government";2017;"ExImBank";297,6;"Transport";1;1;0;0
+"Belgrade-Budapest rail link";"Serbia";"SRB";"Government";"NG - National Government";2017;"ExImBank";297,6;"Transport";1;1;0;0
+"Lusaka Urban Road L400 Construction (Phase I)";"Zambia";"ZMB";"Government";"NG - National Government";2013;"ExImBank";296;"Transport";1;0;0;0
+"Adama Wind Farm II (153 MW)";"Ethiopia";"ETH";"Government";"NG - National Government";2013;"ExImBank";293;"Power";0;0;1;0
+"Pacitan Coal Power Plant";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2009;"ExImBank";293;"Power";0;0;0;1
+"Nouakchott Friendship Port Expansion";"Mauritania";"MRT";"Government";"NG - National Government";2009;"ExImBank";292,9;"Transport";0;1;0;0
+"Padma water treatment plant";"Bangladesh";"BGD";"Government";"NG - National Government";2012;"ExImBank";290,8;"Government";0;0;0;1
+"Omo-Quraz Sugar Factory 2 Construction";"Ethiopia";"ETH";"Ethiopia Sugar Corporation";"SOE - State-Owned Entity";2013;"CDB";290;"Agriculture, food";1;0;1;0
+"Omo-Quraz Sugar Factory 3 Construction";"Ethiopia";"ETH";"Ethiopia Sugar Corporation";"SOE - State-Owned Entity";2013;"CDB";290;"Agriculture, food";1;0;1;0
+"Military Residential Houses Construction";"Tanzania";"TZA";"Government";"NG - National Government";2013;"ExImBank";285;"Government";0;0;0;1
+"Satellite communication system";"Belarus";"BLR";"Government";"NG - National Government";2011;"ExImBank";282;"Telecom";0;0;0;1
+"Communication Towers Project (Phase II)";"Zambia";"ZMB";"Government";"NG - National Government";2017;"ExImBank";281;"Telecom";0;0;0;1
+"Suralaya Unit 8 Power Plant";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2009;"ExImBank";280;"Power";0;0;0;1
+"Adipala Power Station";"Indonesia";"IDN";"Government";"NG - National Government";2009;"CDB";277;"Power";0;1;0;0
+"Dasherkandi Sewage Treatment Plant";"Bangladesh";"BGD";"Government";"NG - National Government";2015;"ExImBank";273,4;"Government";0;0;0;1
+"Trade finance: 20 high-speed trains, 200 passenger cars, service and parts";"Argentina";"ARG";"Government";"NG - National Government";2010;"CDB, Citic";273;"Transport";0;0;0;1
+"Genale-Dawa III Hydroelectric Power Project";"Ethiopia";"ETH";"Government";"NG - National Government";2009;"ExImBank";270;"Power";0;1;1;0
+"Bengkulu Power Station";"Indonesia";"IDN";"PT Intraco Penta and PowerChina";"PPP - Public-Private Partnership";2016;"CDB, ExImBank";270;"Power";0;1;0;0
+"Children's hospital and 6 sports facilities";"Trinidad and Tobago";"TTO";"Government";"NG - National Government";2013;"ExImBank";270;"Mulit-sector/discretionary";0;0;0;1
+"Transmission Lines from Imboulou Hydropower: 220kV; 110kV; 30kV; 20kV";"Congo, Republic of the";"COG";"Government";"NG - National Government";2009;"ExImBank";264;"Power";1;1;1;0
+"Ethio-Hunan Equipment Production Cooperation Industrial Park Construction";"Ethiopia";"ETH";"Government";"NG - National Government";2017;"ExImBank";262;"Other construction";0;0;1;0
+"Micomeseng-Bonkoro Highway Construction";"Equatorial Guinea";"GNQ";"Government";"NG - National Government";2015;"ExImBank";261;"Transport";0;0;0;1
+"Revamping Minsk CHP Plant No. 5";"Belarus";"BLR";"Government";"NG - National Government";2008;"CDB";260;"Power";0;0;0;1
+"Kpong Water Supply Project";"Ghana";"GHA";"Government";"NG - National Government";2011;"ExImBank";260;"Government";0;0;0;1
+"Sir Seewoosagur Ramgoolam International Airport";"Mauritius";"MUS";"Government";"NG - National Government";2009;"ExImBank";260;"Transport";0;1;0;0
+"Laos – Spaceflight";"Laos";"LAO";"Lao Sat-1";"PPP - Public-Private Partnership";2012;"ExImBank";258;"Government";0;0;0;1
+"Kansonyah 20,000 Social Housing Units Construction";"Guinea";"GIN";"Government";"NG - National Government";2018;"ExImBank";255;"Government";0;1;0;0
+"El Espino - Charagua - Boyuibe highway";"Bolivia";"BOL";"Government";"NG - National Government";2015;"ExImBank";253;"Transport";1;1;1;0
+"Trade support: Chinese satellite";"Bolivia";"BOL";"Government";"NG - National Government";2010;"CDB";251;"Telecom";0;0;0;1
+"Energy Saving Programs";"Ecuador";"ECU";"Government";"NG - National Government";2015;"ExImBank";250;"Government";0;0;0;1
+"Working capital loan";"Regional";NA;"Trade and Development Bank";NA;2017;"ExImBank";250;"Government";0;0;0;1
+"Working capital loan";"Regional";NA;"Trade and Development Bank";NA;2017;"ExImBank";250;"Government";0;0;0;1
+"Working capital loan";"Regional";NA;"Trade and Development Bank";NA;2017;"ExImBank";250;"Government";0;0;0;1
+"Genale Dawa III-Yirgalem II-Wolayita Sodo II-Hawassa II Transmission Project";"Ethiopia";"ETH";"Government";"NG - National Government";2016;"ExImBank";249,3;"Power";0;1;1;0
+"Air Traffic Management System Development";"South Sudan";"SSD";"Government";"NG - National Government";2018;"ExImBank";249;"Transport";0;0;0;1
+"Gouina Hydropower Project (140MW)";"Mali";"MLI";"Government";"NG - National Government";2013;"ExImBank";248,2;"Power";0;0;1;0
+"Colombo-Katunayake Expressway (Construction)";"Sri Lanka";"LKA";"Government";"NG - National Government";2008;"ExImBank";248,2;"Transport";0;1;0;0
+"Colombo – Katunayake Expressway";"Sri Lanka";"LKA";"Government";"NG - National Government";2009;"ExImBank";248;"Transport";0;1;1;0
+"EN230 Rehabilitation (between Viana and Catete International Airport)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";245;"Transport";0;0;0;1
+"Mongu Kalabo Road Rehabilitation (Mongu-Tapo Section)";"Zambia";"ZMB";"Government";"NG - National Government";2011;"ExImBank";244;"Transport";1;1;0;0
+"The enlargement of Cambodian National Road No. 6";"Cambodia";"KHM";"Government";"NG - National Government";2013;"ExImBank";242;"Transport";0;1;1;0
+"Takalar Steam Coal-Fired Power Plant (200MW)";"Indonesia";"IDN";"Indonesian State Electricity Company";"SOE - State-Owned Entity";2014;"ExImBank";240,98;"Power";0;0;0;1
+"Upgrade of Three Hydro Power Plants";"Uzbekistan";"UZB";"Government";"NG - National Government";2017;"ExImBank";240;"Power";0;0;0;1
+"Bole Airport Expansion";"Ethiopia";"ETH";"Government";"NG - National Government";2013;"ExImBank";239;"Transport";0;0;1;0
+"Rail cars for Roca Commuter Line";"Argentina";"ARG";"Government";"NG - National Government";2019;"CDB";236;"Transport";0;0;0;1
+"Moxico Roads Rehabilitation";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";235;"Transport";0;0;0;1
+"Ships Purchase";"Ethiopia";"ETH";"Ethiopian Shipping Lines";"SOE - State-Owned Entity";2011;"ExImBank";235;"Transport";0;0;0;1
+"Cileunyi Tollroad";"Indonesia";"IDN";"Government";"NG - National Government";2014;"ExImBank";235;"Transport";0;1;0;0
+"National Infrastructure Projects (Dalian IV)";"Suriname";"SUR";"Government";"NG - National Government";2016;"ExImBank";235;"Transport";0;1;1;0
+"National Route 2 Rehabilitation (Phase II)";"Congo, Republic of the";"COG";"Government";"NG - National Government";2012;"ExImBank";234,1;"Transport";1;1;1;0
+"South Kordofan Transmission Lines";"Sudan";"SDN";"Government";"NG - National Government";2010;"ExImBank";233;"Power";0;0;0;1
+"Kaliwa Dam Project";"Philippines";"PHL";"Government";"NG - National Government";2017;"ExImBank";231;"Government";1;1;1;0
+"Loznica Thermal Power Station";"Serbia";"SRB";"CNEEC and Scarborough Group International";"SOE - State-Owned Entity";2016;"CDB";230;"Power";0;0;0;1
+"Adjarala Hydropower Project";"Benin";"BEN";"Government";"NG - National Government";2015;"ExImBank";229;"Power";0;0;0;1
+"Karimenu Dam Water Supply Project";"Kenya";"KEN";"Government";"NG - National Government";2017;"ExImBank";229;"Government";0;0;0;1
+"Kibwezi-Mutomo-Kitui Road Construction (Phase I)";"Kenya";"KEN";"Government";"NG - National Government";2016;"ExImBank";225;"Transport";0;1;0;0
+"Malabo Power Grid (Phase II)";"Equatorial Guinea";"GNQ";"Government";"NG - National Government";2008;"ExImBank";221;"Power";0;1;0;0
+"Addis-Djibouti Railway (Tranche A)";"Ethiopia";"ETH";"Government";"NG - National Government";2013;"ExImBank";220;"Transport";1;1;1;0
+"Aysha Wind Farm II Construction";"Ethiopia";"ETH";"Government";"NG - National Government";2017;"ExImBank";219;"Power";0;0;1;0
+"NetOne Telecom Network Expansion (Phase II)";"Zimbabwe";"ZWE";"NetOne";"SOE - State-Owned Entity";2014;"ExImBank";219;"Telecom";0;0;0;1
+"Zemun-Borca bridge";"Serbia";"SRB";"Government";"NG - National Government";2009;"ExImBank";217;"Transport";0;0;0;1
+"Pokhara International Airport";"Nepal";"NPL";"Government";"NG - National Government";2016;"ExImBank";215,96;"Transport";0;1;1;0
+"National Road No.3 Construction Project from Phnom Penh (Chom Chao)-Bek Kus-Kampot Town";"Cambodia";"KHM";"Government";"NG - National Government";2018;"ExImBank";215;"Transport";0;1;0;0
+"Moragahakanda Development Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2012;"CDB";214,2;"Power";1;1;0;0
+"National Backbone Fiber Optics Project";"Guinea";"GIN";"Government";"NG - National Government";2014;"ExImBank";214;"Telecom";0;0;0;1
+"Drinking Water Supply Project (Djiri)";"Congo, Republic of the";"COG";"Government";"NG - National Government";2009;"ExImBank";213;"Government";0;0;0;1
+"3G Network System";"Bangladesh";"BGD";"Government";"NG - National Government";2015;"ExImBank";211;"Telecom";0;0;0;1
+"Thar Block II Power Plant (Thar Engro)";"Pakistan";"PAK";"Sindh Engro Coal Mining Company";"PPP - Public-Private Partnership";2015;"CDB";207;"Power";0;0;1;0
+"Houay Lamphan Gnai Hydropower Plant, Sekong";"Laos";"LAO";"Government";"NG - National Government";2011;"ExImBank";206;"Power";0;1;0;0
+"Lusaka Urban Roads (L400) Upgrade; 400km (Phase III)-Eximbank part";"Zambia";"ZMB";"Government";"NG - National Government";2018;"ExImBank";205;"Transport";1;0;0;0
+"Paksat-1R Satellite";"Pakistan";"PAK";"Government";"NG - National Government";2008;"ExImBank";200,35;"Telecom";0;0;0;1
+"Various Renewable Energy Projects; Renewal of 2007/2010 Loans";"Argentina";"ARG";"Government";"NG - National Government";2012;"CDB";200;"Power";0;0;0;1
+"Oil - related";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2010;"CDB";200;"Power";0;0;0;1
+"SMEs Loan (Agriculture, Environment and Communications)";"Egypt";"EGY";"National Bank of Egypt";"SOE - State-Owned Entity";2012;"CDB";200;"Government";0;0;0;1
+"Solo-Kertosono Toll Road Project";"Indonesia";"IDN";"Government";"NG - National Government";2014;"ExImBank";200;"Transport";0;0;0;1
+"Bishkek-Naryn-Torugart Road Rehabilitation Project, KM 9-272";"Kyrgyzstan";"KGZ";"Government";"NG - National Government";2009;"ExImBank";200;"Transport";NA;NA;NA;NA
+"Upper Trishuli III Dam";"Nepal";"NPL";"Government";"NG - National Government";2011;"ExImBank";200;"Power";0;1;1;0
+"Kumul Submarine Cable";"Papua New Guinea";"PNG";"Government";"NG - National Government";2013;"ExImBank";200;"Telecom";1;1;0;0
+"Working capital loan";"Regional";NA;"Africa Finance Corporation";"Regional body";2018;"ExImBank";200;"Government";0;0;0;1
+"Working capital loan";"Regional";NA;"Africa Finance Corporation";"Regional body";2018;"ExImBank";200;"Government";0;0;0;1
+"Working capital loan";"Regional";NA;"Africa Finance Corporation";"Regional body";2018;"ExImBank";200;"Government";0;0;0;1
+"J.A. Pengel International Airport Expansion Project";"Suriname";"SUR";"Government";"NG - National Government";2019;"ExImBank";200;"Transport";0;0;0;1
+"Bolster foreign exchange reserves";"Tanzania";"TZA";"Government";"NG - National Government";2015;"CDB";200;"Government";0;0;0;1
+"Bolster foreign exchange reserves";"Tanzania";"TZA";"Government";"NG - National Government";2015;"CDB";200;"Government";0;0;0;1
+"Entebbe Airport Expansion (Phase I)";"Uganda";"UGA";"Government";"NG - National Government";2015;"ExImBank";200;"Transport";1;0;0;0
+"Vinh Tan Coal Fired Power Plant III Unit I, II, III";"Vietnam";"VNM";"Government";"NG - National Government";2015;"ExImBank";200;"Power";1;1;0;0
+"Unspecified culture & infrastructure projects";"Vietnam";"VNM";"Bank for Investment and Development of Vietnam";"SOE - State-Owned Entity";2015;"CDB";200;"Mulit-sector/discretionary";0;0;0;1
+"230 KV Thavieng S/S-Laksao S/S and 115 KV Nam Phay HPP-Thongkoun2 S/S Transmission Lines Project";"Laos";"LAO";"Government";"NG - National Government";2018;"ExImBank";199;"Power";0;1;1;0
+"Yachay Knowledge City";"Ecuador";"ECU";"Government";"NG - National Government";2016;"ExImBank";198;"Mulit-sector/discretionary";0;0;0;1
+"Surcin - Obrenovac Highway";"Serbia";"SRB";"Government";"NG - National Government";2017;"ExImBank";198;"Transport";0;0;0;1
+"Ranomafana Hydropower Plant Project";"Madagascar";"MDG";"Government";"NG - National Government";2018;"ExImBank";197;"Power";0;1;0;0
+"Copperbelt Province C400 Road Construction";"Zambia";"ZMB";"Government";"NG - National Government";2018;"ExImBank";197;"Transport";0;0;0;1
+"Mbala to Nakonde Road Construction";"Zambia";"ZMB";"Government";"NG - National Government";2013;"ExImBank";196;"Transport";1;1;0;0
+"Mattala - Hambantota International Airport Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2010;"ExImBank";190,8;"Transport";0;0;0;1
+"Addis-Adama Expressway Construction (Phase 2)";"Ethiopia";"ETH";"Government";"NG - National Government";2016;"ExImBank";190;"Transport";0;1;1;0
+"Cabolongo-Cacuaco Expressway Rehabilitation (Connection to the Camama Road with Access to Zango and Central Kilamba)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";189;"Transport";0;0;0;1
+"Vitebsk Hydropower Plant";"Belarus";"BLR";"Government";"NG - National Government";2011;"CDB";189;"Power";0;0;0;1
+"Gibe III Hydropower Project (Addis Ababa Transmission Lines and Substations)";"Ethiopia";"ETH";"Government";"NG - National Government";2011;"ExImBank";188;"Power";0;0;0;1
+"Dire Dawa-Dewalle Road Construction";"Ethiopia";"ETH";"Government";"NG - National Government";2014;"ExImBank";187;"Transport";0;0;1;0
+"North-South Transport Corridor (Phase 2)";"Kyrgyz Republic";"KGZ";"Government";"NG - National Government";2015;"ExImBank";185;"Transport";1;0;0;0
+"Procurement of Three Oil Tankers and Three Bulk Carriers";"Bangladesh";"BGD";"Government";"NG - National Government";2015;"ExImBank";184,5;"Transport";0;0;0;1
+"Berrechid–Ben Ahmed Highway Construction";"Morocco";"MAR";"Government";"NG - National Government";2011;"ExImBank";183,6;"Transport";0;0;0;1
+"Lusiwasi Lower Hydropower Expansion & Lunzua Hydropower Rehabilitation";"Zambia";"ZMB";"Zambia Electricity Supply Corporation Limited (ZESCO)";"SOE - State-Owned Entity";2013;"ExImBank";183;"Power";1;0;0;0
+"2017 Loop network in southwest regions and the rest of eastern regions";"Cambodia";"KHM";"Government";"NG - National Government";2017;"ExImBank";180;"Power";0;0;0;1
+"Upper Yeywa Power Transmission and Transformation EPC Project";"Myanmar";"MMR";"Government";"NG - National Government";2013;"ExImBank";180;"Power";0;0;0;1
+"E01 Southern Expressway (Construction)";"Sri Lanka";"LKA";"Government";"NG - National Government";2015;"ExImBank";180;"Transport";1;1;0;0
+"Public Security Network III Project";"Zambia";"ZMB";"Government";"NG - National Government";2016;"CDB";179;"Government";0;0;0;1
+"Uong Bi Power Plant";"Vietnam";"VNM";"Government";"NG - National Government";2009;"ExImBank";178,5;"Power";0;0;0;1
+"Quang Ninh-1 Unit 1";"Vietnam";"VNM";"Government";"NG - National Government";2009;"ExImBank";176;"Power";0;1;1;0
+"Mansa to Luwingu Road Construction";"Zambia";"ZMB";"Government";"NG - National Government";2013;"CDB";176;"Transport";1;0;0;0
+"Mansa to Luwingu Road Construction";"Zambia";"ZMB";"Government";"NG - National Government";2013;"CDB";176;"Transport";1;0;0;0
+"Potable Water Supply Projects (Phase I)";"Cameroon";"CMR";"Government";"NG - National Government";2013;"ExImBank";174;"Government";0;0;0;1
+"Modjo-Hawassa Expressway Construction (Arsi Negele-Hawassa Section)";"Ethiopia";"ETH";"Government";"NG - National Government";2017;"ExImBank";171;"Transport";0;1;1;0
+"Defense Project";"Zambia";"ZMB";"Government";"NG - National Government";2018;"ExImBank";171;"Government";0;0;0;1
+"Defense Project";"Zambia";"ZMB";"Government";"NG - National Government";2018;"ExImBank";171;"Government";0;0;0;1
+"Rehabilitation of Sam Lord’s Castle Hotel";"Barbados";"BRB";"Barbados Tourism Investment (BTI)";"SOE - State-Owned Entity";2015;"ExImBank";170;"Other construction";0;0;0;1
+"Solar-Powered Milling Plants";"Zambia";"ZMB";"Zambia Cooperative Federation";"PPP - Public-Private Partnership";2016;"CDB";170;"Agriculture, food";0;0;0;1
+"230kV Pak Ngeuy-Pha Oudom Transmission Line and Associated Substation Project";"Laos";"LAO";"Electicite du Laos (EdL)";"SOE - State-Owned Entity";2017;"ExImBank";169;"Power";0;0;0;1
+"Development of National Infra Network for Bangladesh Government Phase III";"Bangladesh";"BGD";"Government";"NG - National Government";2014;"ExImBank";167;"Telecom";0;0;0;1
+"Angren Power Station with Uzbekenergo";"Uzbekistan";"UZB";"Government";"NG - National Government";2013;"ExImBank";166;"Power";0;0;0;1
+"Busanga Hydropower Project";"Congo, Democratic Republic of the";"COD";"Sinohydro & CREC (75%)";"PPP - Public-Private Partnership";2015;"ExImBank";165;"Power";0;1;0;0
+"Addis Ababa Power Network Rehabilitation and Upgrading";"Ethiopia";"ETH";"Government";"NG - National Government";2016;"ExImBank";165;"Power";0;1;1;0
+"Togolese Road Network (partial) Renovation";"Togo";"TGO";"Government";"NG - National Government";2009;"ExImBank";165;"Transport";1;0;1;0
+"Mali Digital 2020 Project";"Mali";"MLI";"Government";"NG - National Government";2018;"ExImBank";164;"Telecom";0;0;0;1
+"Victoria Falls Airport Renovation";"Zimbabwe";"ZWE";"Government";"NG - National Government";2012;"ExImBank";164;"Transport";1;1;0;0
+"Metro Line A rail car purchase";"Argentina";"ARG";"Buenos Aires local government";"SNG - Sub-national Government";2014;"ExImBank";162;"Transport";0;0;0;1
+"Digital Television Migration Project";"Congo, Republic of the";"COG";"Government";"NG - National Government";2017;"ExImBank";161,6;"Telecom";0;0;0;1
+"National Telecom Project (Phase III)";"Congo, Republic of the";"COG";"Government";"NG - National Government";2017;"ExImBank";160,9;"Telecom";0;0;0;1
+"Kariba South Bank Extension (CL portion)";"Zimbabwe";"ZWE";"Government";"NG - National Government";2013;"ExImBank";160;"Power";1;1;0;0
+"Kariba South Bank Extension (PEBC portion)";"Zimbabwe";"ZWE";"Government";"NG - National Government";2013;"ExImBank";160;"Power";1;1;0;0
+"Construction of New Enga Provincial Hospital Project";"Papua New Guinea";"PNG";"Government";"NG - National Government";2016;"ExImBank";159,6;"Government";0;1;0;0
+"Development of 1530 Housing Units in Hulhumale";"Maldives";"MDV";"Housing Development Corporation";"SOE - State-Owned Entity";2017;"CDB";159;"Government";0;1;0;0
+"Hambantota Port Development Project -Phase II Concessional Loan";"Sri Lanka";"LKA";"Government";"NG - National Government";2012;"ExImBank";158,42;"Transport";0;0;0;1
+"Sumbe City infrastructure Lot 1 (Stabalizing Slopes and Relocation)";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";158;"Transport";0;0;0;1
+"New Juba International Airport Project";"South Sudan";"SSD";"Government";"NG - National Government";2014;"ExImBank";158;"Transport";1;0;0;0
+"Abuja Light Rail Project- Supply of Rolling Stocks and Depot Equipment";"Nigeria";"NGA";"Government";"NG - National Government";2018;"ExImBank";157;"Transport";0;0;0;1
+"Chashma Power Station Unit 3 and 4";"Pakistan";"PAK";"Government";"NG - National Government";2011;"ExImBank";157;"Power";0;0;0;1
+"Nairobi-Thika Highway Construction";"Kenya";"KEN";"Government";"NG - National Government";2009;"ExImBank";156,4;"Transport";1;0;0;0
+"EN230 Rehabilitation(connection to Unidade Operativa Overpass)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";156;"Transport";0;0;0;1
+"Emergency Telecommunication Network";"Cameroon";"CMR";"Government";"NG - National Government";2013;"ExImBank";156;"Telecom";0;0;0;1
+"Mekelle Water Supply Project (PEBC portion)";"Ethiopia";"ETH";"Government";"NG - National Government";2018;"ExImBank";156;"Government";0;1;1;0
+"Nairobi Southern Bypass Construction";"Kenya";"KEN";"Government";"NG - National Government";2012;"ExImBank";156;"Transport";1;1;0;0
+"Digital Migration Project";"Mozambique";"MOZ";"Government";"NG - National Government";2017;"ExImBank";156;"Telecom";0;0;0;1
+"Pacific Marine Industrial Zone";"Papua New Guinea";"PNG";"China Shenyang International Economic Corporation Limited (CSYIEC)/ Department of Commerce & Industry/National Fisheries Authority/ Madang Provincial Govt.";"SOE, NG, NG, SNG";2011;"ExImBank";156;"Agriculture, food";0;1;0;0
+"E-National Higher Education Network Project";"Cameroon";"CMR";"Government";"NG - National Government";2015;"ExImBank";155;"Government";0;0;0;1
+"Hambantota Port Development Phase I for Ancillary Work and Supply of Equipment Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2013;"ExImBank";154,94;"Transport";0;0;0;1
+"Development of 1500 housing units in Maldives";"Maldives";"MDV";"Government";"NG - National Government";2012;"ExImBank";154,91;"Government";0;0;0;1
+"Tier-4 Data Center";"Bangladesh";"BGD";"Government";"NG - National Government";2015;"ExImBank";154;"Telecom";0;0;0;1
+"Libreville Perimeter Highway Project";"Gabon";"GAB";"Government";"NG - National Government";2016;"ExImBank";154;"Transport";0;1;1;0
+"Rehabilitation and Improvement of Priority Road Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2010;"CDB";152,8;"Transport";0;0;0;1
+"Rehabilitation and Improvement of Priority Road Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2010;"CDB";152,8;"Transport";0;0;0;1
+"Harare Robert Gabriel Mugabe International Airport Upgrade";"Zimbabwe";"ZWE";"Government";"NG - National Government";2018;"ExImBank";152;"Transport";0;0;0;1
+"Trishuli-3A project";"Nepal";"NPL";"Nepal Electricity Authority";"SOE - State-Owned Entity";2011;"ExImBank";151,7;"Power";0;1;1;0
+"SME development";"Argentina";"ARG";"BICE";"SOE - State-Owned Entity";2017;"CDB";150;"Government";0;0;0;1
+"Kribi Port Project (Phase II); CL portion";"Cameroon";"CMR";"Government";"NG - National Government";2016;"ExImBank";150;"Transport";0;0;0;1
+"Takoradi Port Expansion (Phase I) - Access Road";"Ghana";"GHA";"Government";"NG - National Government";2011;"CDB";150;"Transport";0;1;0;0
+"ICT Surveillance Platform for an Oil Field";"Ghana";"GHA";"Government";"NG - National Government";2013;"CDB";150;"Government";0;0;0;1
+"Tanjung Kasam Power Station with Sinosure";"Indonesia";"IDN";"Government";"NG - National Government";2014;"ExImBank";150;"Power";0;1;0;0
+"Thalpitigala Resovoir Dam";"Sri Lanka";"LKA";"Government";"NG - National Government";2018;"ExImBank";148;"Power";0;0;0;1
+"Gouina Hydropower Project";"Senegal";"SEN";"Government";"NG - National Government";2013;"ExImBank";147;"Power";0;0;1;0
+"Upgrading Luanda MT/BT Networks (Phase IV)";"Angola";"AGO";"Government";"NG - National Government";2008;"ExImBank";144;"Power";0;0;0;1
+"Harare City Water Reticulation";"Zimbabwe";"ZWE";"Government";"NG - National Government";2012;"ExImBank";144;"Government";0;1;0;0
+"Addis-Adama Expressway- Toll Montovay Construction (Phase 2)";"Ethiopia";"ETH";"Government";"NG - National Government";2013;"ExImBank";143;"Transport";0;1;1;0
+"SME Loans";"Kenya";"KEN";"Central Bank of Kenya";"NG - National Government";2015;"CDB";143;"Government";0;0;0;1
+"Memvélé Dam Hydropower Transmission Lines";"Cameroon";"CMR";"Government";"NG - National Government";2017;"ExImBank";142;"Power";0;0;0;1
+"Cabinda Infrastructure (Phase II)";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";140;"Other construction";0;0;0;1
+"Highway Connecting Airport to City";"Mongolia";"MNG";"Mongolia";"NG - National Government";2016;"ExImBank";140;"Transport";1;1;0;0
+"Low Cost Housing Project";"Fiji";"FJI";"Government";"NG - National Government";2011;"ExImBank";138,56;"Government";0;1;0;0
+"Teluk Sirih Coal-Fired Power Plant (224MW)";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2013;"CDB";138;"Power";0;1;1;0
+"Garissa Solar Power Project";"Kenya";"KEN";"Government";"NG - National Government";2016;"ExImBank";137,5;"Power";0;0;1;0
+"Faleolo International Airport Terminal";"Samoa";"WSM";"Samoa Airport Authority, Shanghai Construction";"SOE, SOE";2015;"ExImBank";136,34;"Transport";0;1;0;0
+"Maya-Maya Airport Construction (Brazzaville)";"Congo, Republic of the";"COG";"Government";"NG - National Government";2008;"ExImBank";136;"Transport";0;0;0;1
+"Libreville Power Grid Upgrade";"Gabon";"GAB";"Government";"NG - National Government";2011;"ExImBank";135;"Power";0;0;1;0
+"Maluana Data Center Construction";"Mozambique";"MOZ";"Government";"NG - National Government";2016;"ExImBank";135;"Telecom";0;0;0;1
+"MR67 and DR3602 Road Upgrade";"Namibia";"NAM";"Government";"NG - National Government";2012;"ExImBank";135;"Transport";1;0;1;0
+"Libreville-Port Gentil Road Project (Phase I)";"Gabon";"GAB";"Government";"NG - National Government";2013;"ExImBank";134;"Transport";0;1;0;0
+"Parit Baru Power Station";"Indonesia";"IDN";"Government";"NG - National Government";2011;"ExImBank";133;"Power";0;0;0;1
+"Kodda Power Plant";"Bangladesh";"BGD";"Government";"NG - National Government";2013;"ExImBank";132;"Power";0;0;0;1
+"Akassato-Bohicon Road Project (Lot 3)";"Benin";"BEN";"Government";"NG - National Government";2013;"ExImBank";132;"Transport";0;0;0;1
+"Nairobi Power Transmission Projects: Embakasi-Nairobi Railways Compound Cable (220 kV); Underground Cables (66kV) ; Substation in Likoni (66/11 kV); Modernize Cathedral Substation";"Kenya";"KEN";"Government";"NG - National Government";2016;"ExImBank";132;"Power";1;1;0;0
+"Rembang Power Station";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2008;"CDB";131;"Power";0;0;0;1
+"N'Djamena 90kV Ring Transmission Line & N'Djamena - Djarmaya Refinery 60kv Transmission Line";"Chad";"TCD";"Government";"NG - National Government";2012;"ExImBank";130;"Mulit-sector/discretionary";0;0;1;0
+"Cheddi Jagan Airport expansion";"Guyana";"GUY";"Government";"NG - National Government";2012;"ExImBank";130;"Transport";0;0;0;1
+"Nairobi 132KV and 66KV Network Upgrade and Reinforcement";"Kenya";"KEN";"Government";"NG - National Government";2014;"ExImBank";130;"Power";1;1;0;0
+"Sanza Pombo Farm";"Angola";"AGO";"Government";"NG - National Government";2012;"CDB";129;"Agriculture, food";0;0;0;1
+"Java-7 Coal-Fired Power Plant (2000MW)";"Indonesia";"IDN";"PT Shenhua Guohua Java Bali Generation";"PPP - Public-Private Partnership";2016;"CDB";128,1;"Power";0;1;0;0
+"Lusaka-Kafue Bulk Water Supply Project";"Zambia";"ZMB";"Government";"NG - National Government";2016;"ExImBank";128;"Government";0;0;0;1
+"Nam Khan 3 Dam";"Laos";"LAO";"Government";"NG - National Government";2012;"ExImBank";127;"Power";0;0;1;0
+"Private Sector Lending UEMOA Member States";"Regional";NA;"Banque Ouest Africaine";"Regional body";2014;"CDB";125;"Government";0;0;0;1
+"Reinforcement of Existing Water System 3 (Kikuxi)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";124;"Government";0;0;0;1
+"PLTU Nangroe Aceh Darussalam Thermal Power Plant";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2009;"ExImBank";124;"Power";0;0;0;1
+"Nagan Raya Thermal Power Plant (Meulaboh Power Station), Special Region of Aceh";"Indonesia";"IDN";"Perusahaan Listrik Negara (PLN)";"SOE - State-Owned Entity";2009;"ExImBank";124;"Power";0;0;0;1
+"National security project GoTa (Phase II)";"Ghana";"GHA";"Government";"NG - National Government";2013;"ExImBank";123,4;"Government";0;0;0;1
+"230kV Power Transmission Project Phase II for Cambodian National Grid";"Cambodia";"KHM";"Government";"NG - National Government";2017;"ExImBank";123;"Power";0;0;0;1
+"Kessem Sugar Factory Construction";"Ethiopia";"ETH";"Ethiopia Sugar Corporation";"SOE - State-Owned Entity";2012;"ExImBank";123;"Agriculture, food";0;0;1;0
+"Kenyatta University Teaching and Referral Hospital Construction";"Kenya";"KEN";"Government";"NG - National Government";2011;"ExImBank";122,9;"Government";0;0;0;1
+"D019 Road Upgrade (Kawambwa to Mporokoso)";"Zambia";"ZMB";"Government";"NG - National Government";2018;"ExImBank";121;"Transport";0;0;0;1
+"Cambodian National Road No. 58 Project";"Cambodia";"KHM";"Government";"NG - National Government";2014;"ExImBank";120;"Transport";1;1;1;0
+"Santiago de Cuba port";"Cuba";"CUB";"Government";"NG - National Government";2015;"ExImBank";120;"Transport";0;0;0;1
+"E-government Project (Phase II) - WiMax Network Upgrade (CommL portion)";"Ghana";"GHA";"Government";"NG - National Government";2011;"ExImBank";120;"Telecom";0;0;0;1
+"Beira Fishing Port Rehabilitation";"Mozambique";"MOZ";"Government";"NG - National Government";2014;"ExImBank";120;"Agriculture, food";0;0;0;1
+"Zalingei-El Geneinah Road Construction";"Sudan";"SDN";"Government";"NG - National Government";2009;"ExImBank";120;"Transport";0;0;0;1
+"Cabinda infrastructure (Phase I Lot 1)";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";119;"Other construction";0;0;0;1
+"Polytechnics Upgrade; Technical and Vocational Training Centers";"Ghana";"GHA";"Government";"NG - National Government";2018;"ExImBank";119;"Government";0;0;0;1
+"El Renk Malakal Road Construction";"Sudan";"SDN";"Government";"NG - National Government";2009;"ExImBank";119;"Transport";0;1;0;0
+"Soyo-Kapary Transmission and Transformation Project";"Angola";"AGO";"Government";"NG - National Government";2013;"ExImBank";118;"Power";0;0;0;1
+"Pedras Negras Farm";"Angola";"AGO";"Government";"NG - National Government";2011;"CDB";117;"Agriculture, food";0;0;0;1
+"Cabinda infrastructure (Phase I Lot 2)";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";117;"Other construction";0;0;0;1
+"Bole Airport Passenger Terminal Expansion";"Ethiopia";"ETH";"Government";"NG - National Government";2016;"ExImBank";117;"Transport";0;0;1;0
+"Abidjan-Grand Bassam Highway Construction";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2012;"ExImBank";115;"Transport";0;0;0;1
+"Kabwe Pensulo Second 330kV Line";"Zambia";"ZMB";"Zambia Electricity Supply Corporation Limited (ZESCO)";"SOE - State-Owned Entity";2017;"ExImBank";114;"Power";1;1;0;0
+"Construction of national road No. 214";"Cambodia";"KHM";"Government";"NG - National Government";2012;"ExImBank";113;"Transport";1;1;1;0
+"Mwityazo-Ruvumbu-Karongi Road Construction";"Rwanda";"RWA";"Government";"NG - National Government";2012;"ExImBank";113;"Transport";0;1;0;0
+"Cuimba Agro-Industrial Projects";"Angola";"AGO";"Government";"NG - National Government";2014;"ExImBank";112;"Agriculture, food";0;0;0;1
+"Sumbe City Infrastructure Lot 3 (Road Construction)";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";112;"Transport";0;0;0;1
+"Cazenga/Sambizanga Infrastructures Construction (1st disbursement)";"Angola";"AGO";"Government";"NG - National Government";2011;"CDB";110;"Government";0;0;0;1
+"El Nahood - Aum Kadada Road Construction";"Sudan";"SDN";"Government";"NG - National Government";2009;"ExImBank";110;"Transport";0;1;0;0
+"NCDC Road upgrade";"Papua New Guinea";"PNG";"Government";"NG - National Government";2018;"ExImBank";109,6;"Transport";0;1;0;0
+"West Side of the Lae Tidal Basin and Huon Industrial Park";"Papua New Guinea";"PNG";"Government";"NG - National Government";2016;"ExImBank";109;"Other construction";0;1;0;0
+"Private Sector Activities in the UEMOA Member States";"Regional";NA;"Banque Ouest Africaine";"Regional body";2015;"CDB";108,6;"Government";0;0;0;1
+"Nairobi Ring Road Construction";"Kenya";"KEN";"Government";"NG - National Government";2009;"ExImBank";108;"Transport";0;0;0;1
+"National Defense College Construction";"Zimbabwe";"ZWE";"Government";"NG - National Government";2011;"ExImBank";107;"Government";0;0;0;1
+"Sumbe City Infrastructure Lot 2 (Drainage)";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";106;"Government";0;0;0;1
+"Gabon Border Road; Obouya-Boundji-Okoyo-Gabon Border / OBO Road Construction (Phase I)";"Congo, Republic of the";"COG";"Government";"NG - National Government";2008;"ExImBank";106;"Transport";0;1;0;0
+"ICT Fiber Optic Cable Network Project (Phase II)";"Tanzania";"TZA";"Government";"NG - National Government";2010;"ExImBank";106;"Telecom";0;0;0;1
+"Equipment supply to local governments";"Uganda";"UGA";"Government";"NG - National Government";2011;"ExImBank";106;"Mulit-sector/discretionary";0;0;0;1
+"Liouesso Hydropower Project";"Congo, Republic of the";"COG";"Government";"NG - National Government";2012;"ExImBank";105;"Power";0;1;1;0
+"Ivato Airport Construction";"Madagascar";"MDG";"Government";"NG - National Government";2017;"ExImBank";105;"Transport";0;0;0;1
+"Z-9 Helicopters Purchase";"Zambia";"ZMB";"Government";"NG - National Government";2010;"ExImBank";105;"Government";0;0;0;1
+"Phoenix Park Industrial Estate";"Trinidad and Tobago";"TTO";"Government";"NG - National Government";2019;"ExImBank";104,3;"Mulit-sector/discretionary";0;0;0;1
+"EN6 Road Repair (Beira to Machipanda) (Loan 1)";"Mozambique";"MOZ";"Government";"NG - National Government";2013;"ExImBank";104;"Transport";0;0;0;1
+"Kality Ring Road Interchange-Tulu Dimtu Roundabout Project";"Ethiopia";"ETH";"Government";"NG - National Government";2016;"ExImBank";103;"Transport";0;0;1;0
+"Road Construction (Farasol Mbega to Port-Gentil)";"Gabon";"GAB";"Government";"NG - National Government";2016;"ExImBank";103;"Transport";0;1;0;0
+"Azelik Uranium Mine";"Niger";"NER";"Government";"NG - National Government";2011;"ExImBank";103;"Extraction, pipelines";0;0;1;0
+"Fiber Optic Backbone Project";"Niger";"NER";"Société Nigérienne des Télécommunications (Sonitel)";"SOE - State-Owned Entity";2013;"ExImBank";103;"Telecom";1;1;1;0
+"Cuanza-Sul EN120 Rehabilitation (Part 4)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";102;"Transport";0;1;0;0
+"Olkaria IV geothermal- 26 wells (140MW)";"Kenya";"KEN";"Government";"NG - National Government";2010;"ExImBank";101,5;"Power";1;1;0;0
+"Agro-Processing Projects";"Eritrea";"ERI";"Government";"NG - National Government";2012;"ExImBank";101;"Agriculture, food";0;0;0;1
+"Construction and Equipment for Three Development Centers";"Gabon";"GAB";"Government";"NG - National Government";2015;"ExImBank";101;"Government";0;0;0;1
+"ICT project";"Bangladesh";"BGD";"Government";"NG - National Government";2016;"ExImBank";100;"Telecom";0;0;0;1
+"Trade support: Chinese buses";"Bolivia";"BOL";"Government";"NG - National Government";2012;"ExImBank";100;"Transport";0;0;0;1
+"Vaico Irrigation Project";"Cambodia";"KHM";"Government";"NG - National Government";2013;"ExImBank";100;"Government";0;0;0;1
+"Rural Power Grid Extension Project Phase 5 and 6";"Cambodia";"KHM";"Government";"NG - National Government";2016;"ExImBank";100;"Power";0;0;0;1
+"Hopital du Cinquantenaire Construction (Phase 1)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2008;"ExImBank";100;"Government";0;0;0;1
+"SMEs Loan";"Egypt";"EGY";"National Bank of Egypt";"SOE - State-Owned Entity";2015;"CDB";100;"Government";0;0;0;1
+"SMEs Loan";"Egypt";"EGY";"National Bank of Egypt";"SOE - State-Owned Entity";2015;"CDB";100;"Government";0;0;0;1
+"SMEs Loan";"Egypt";"EGY";"National Bank of Egypt";"SOE - State-Owned Entity";2015;"CDB";100;"Government";0;0;0;1
+"SMEs Loan";"Egypt";"EGY";"National Bank of Egypt";"SOE - State-Owned Entity";2015;"CDB";100;"Government";0;0;0;1
+"SMEs Loan";"Egypt";"EGY";"Banque Misr";"SOE - State-Owned Entity";2016;"CDB";100;"Government";0;0;0;1
+"SMEs Loan";"Egypt";"EGY";"Banque Misr";"SOE - State-Owned Entity";2016;"CDB";100;"Government";0;0;0;1
+"SMEs Loan";"Egypt";"EGY";"Banque Misr";"SOE - State-Owned Entity";2016;"CDB";100;"Government";0;0;0;1
+"SMEs Loan";"Egypt";"EGY";"Banque Misr";"SOE - State-Owned Entity";2016;"CDB";100;"Government";0;0;0;1
+"Various Machinery Supply (Phase I)";"Eritrea";"ERI";"Government";"NG - National Government";2011;"ExImBank";100;"Mulit-sector/discretionary";0;0;0;1
+"Hirgigo Thermal Power Plant Upgrade";"Eritrea";"ERI";"Government";"NG - National Government";2014;"ExImBank";100;"Power";0;1;0;0
+"East Nusa Dam";"Indonesia";"IDN";"Government";"NG - National Government";2013;"ExImBank";100;"Government";0;0;0;1
+"Framework Cooperation Agreement on establishing an US$100 million line of credit";"Jamaica";"JAM";"Government";"NG - National Government";2009;"ExImBank";100;"Mulit-sector/discretionary";0;0;0;1
+"ICT Infrastructure Backbone Project";"Nigeria";"NGA";"Government";"NG - National Government";2013;"ExImBank";100;"Telecom";0;0;0;1
+"Trade and Project Finance Line of Credit";"Regional";NA;"African Export Import Bank";"Regional body";2009;"ExImBank";100;"Government";0;0;0;1
+"Working capital loan";"Regional";NA;"Africa Finance Corporation";"Regional body";2018;"ExImBank";100;"Government";0;0;0;1
+"Working capital loan";"Regional";NA;"Africa Finance Corporation";"Regional body";2018;"ExImBank";100;"Government";0;0;0;1
+"Working capital loan";"Regional";NA;"Africa Finance Corporation";"Regional body";2018;"ExImBank";100;"Government";0;0;0;1
+"Rehabilitation and Improvement of Priority Road Project 3 Phase II";"Sri Lanka";"LKA";"Government";"NG - National Government";2014;"CDB";100;"Transport";0;0;0;1
+"Taoussa Hydropower Plant";"Mali";"MLI";"Government";"NG - National Government";2011;"ExImBank";99,7;"Power";0;0;1;0
+"Adama Wind Farm I (51MW)";"Ethiopia";"ETH";"Government";"NG - National Government";2010;"ExImBank";99;"Power";0;0;1;0
+"TelOne related Project";"Zimbabwe";"ZWE";"TelOne";"SOE - State-Owned Entity";2015;"ExImBank";99;"Telecom";0;0;0;1
+"Ha-Mpiti to SehlabaThebe Road Construction";"Lesotho";"LSO";"Government";"NG - National Government";2018;"ExImBank";98;"Transport";0;0;0;1
+"National Broadband Network Project";"Suriname";"SUR";"Government";"NG - National Government";2016;"ExImBank";98;"Telecom";0;0;0;1
+"National Broadband Network Project";"Suriname";"SUR";"Government";"NG - National Government";2016;"ExImBank";98;"Telecom";0;0;0;1
+"Douala Water Supply Project (Phase II)";"Cameroon";"CMR";"Government";"NG - National Government";2009;"ExImBank";97;"Government";1;1;0;0
+"Abidjan Bonoua Water Supply (Phase I)";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2012;"ExImBank";97;"Government";1;1;0;0
+"Railway Bridge across Amur River";"Russian Federation";"RUS";"Government";"NG - National Government";2013;"ExImBank";96,5;"Transport";0;0;0;1
+"Various Machinery Supply (Phase III)";"Eritrea";"ERI";"Government";"NG - National Government";2015;"ExImBank";96;"Mulit-sector/discretionary";0;0;0;1
+"Addis Ababa Deep Well Water Supply Project III";"Ethiopia";"ETH";"Government";"NG - National Government";2011;"ExImBank";96;"Government";0;1;1;0
+"ICT Fiber Optic Cable Network Project (Phase III)";"Tanzania";"TZA";"Government";"NG - National Government";2013;"ExImBank";94;"Telecom";0;0;0;1
+"Kenyan Urban Power Grid Kamburu-Meru (Phase II); Transmission Line with Two Substations (220kV); Transmission Line with One Substation (132kV)";"Kenya";"KEN";"Government";"NG - National Government";2009;"ExImBank";93,3;"Power";1;1;0;0
+"Rabai-Malindi-Garsen-Lamu Transmission Line";"Kenya";"KEN";"Government";"NG - National Government";2010;"ExImBank";93;"Power";0;0;0;1
+"Digital Migration (Phase II and III)";"Zambia";"ZMB";"Government";"NG - National Government";2015;"ExImBank";93;"Telecom";0;0;0;1
+"Rehabilitation Project of the National Road No 57B";"Cambodia";"KHM";"Government";"NG - National Government";2009;"ExImBank";92,09;"Transport";0;1;0;0
+"Bagatelle Dam Project";"Mauritius";"MUS";"Government";"NG - National Government";2011;"ExImBank";92;"Power";0;1;0;0
+"Osh-Batken-Isfana Road Rehabilitation";"Kyrgyz Republic";"KGZ";"Government";"NG - National Government";2011;"ExImBank";91,4;"Transport";0;0;0;1
+"Fiber-Optic Cables Project (Phase II)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2012;"ExImBank";91;"Telecom";0;0;0;1
+"St John Port";"Antigua & Barbuda";"ATG";"Government";"NG - National Government";2016;"ExImBank";90;"Transport";0;0;0;1
+"Rural Power Grid Extension Project Phase 2";"Cambodia";"KHM";"Government";"NG - National Government";2014;"ExImBank";90;"Power";0;0;0;1
+"Rural Power Grid Extension Project Phase 3 and 4";"Cambodia";"KHM";"Government";"NG - National Government";2014;"ExImBank";90;"Power";0;0;0;1
+"2015 Loop network in southwest regions";"Cambodia";"KHM";"Government";"NG - National Government";2015;"ExImBank";90;"Power";0;0;0;1
+"Bingu International Conference Center, the Presidential hotel and Presidential Villas Construction";"Malawi";"MWI";"Government";"NG - National Government";2009;"ExImBank";90;"Other construction";0;0;0;1
+"Al Dibabat - Abou Zayd - El Fula Road Construction";"Sudan";"SDN";"Government";"NG - National Government";2009;"ExImBank";90;"Transport";0;1;0;0
+"Medical Equipment and Medicine Purchase";"Zimbabwe";"ZWE";"Government";"NG - National Government";2012;"ExImBank";90;"Government";0;0;0;1
+"Pak Lay Dam";"Laos";"LAO";"Government";"NG - National Government";2017;"ExImBank";89,77;"Power";0;1;0;0
+"Extension of Cambodia National Road No. 76";"Cambodia";"KHM";"Government";"NG - National Government";2012;"ExImBank";89,27;"Transport";1;1;1;0
+"Camacupa Farm";"Angola";"AGO";"Government";"NG - National Government";2012;"CDB";89;"Agriculture, food";0;0;0;1
+"Abidjan Bonoua Water Supply (Phase II)";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2014;"ExImBank";89;"Government";1;1;0;0
+"Gibe III Hydropower Project (Part C)";"Ethiopia";"ETH";"Ethiopian Electric Power Corporation";"SOE - State-Owned Entity";2011;"ExImBank";89;"Power";0;0;0;1
+"Lotus Tower";"Sri Lanka";"LKA";"Telecommunications Regulatory Commission";"SOE - State-Owned Entity";2012;"ExImBank";88,7;"Telecom";0;0;0;1
+"Assaba and Brakna, Poverty Delta Highway, Aftout Chergui Road Construction";"Mauritania";"MRT";"Government";"NG - National Government";2010;"ExImBank";88,3;"Transport";0;0;1;0
+"RN5 National Road Asphalting (Phase I)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2008;"ExImBank";88;"Transport";1;1;1;0
+"Long Asphalt Road Construction (Adi-Guadad to Habela)";"Eritrea";"ERI";"Government";"NG - National Government";2018;"ExImBank";87;"Transport";0;0;0;1
+"Luganville Wharf Redevelopment";"Vanuatu";"VUT";"Shanghai Construction Group";"SOE - State-Owned Entity";2015;"ExImBank";87;"Transport";0;1;0;0
+"Camama Road Infrastructure (1st disbursement)";"Angola";"AGO";"Government";"NG - National Government";2011;"CDB";86;"Transport";0;0;0;1
+"Railway Rolling Stock Purchase";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";86;"Transport";0;0;0;1
+"Manquete Farm";"Angola";"AGO";"Government";"NG - National Government";2014;"CDB";86;"Agriculture, food";0;0;0;1
+"Potable Water Supply (Phase II)";"Cameroon";"CMR";"Government";"NG - National Government";2018;"ExImBank";86;"Government";0;0;0;1
+"Agriculture and livestock co-ops";"Myanmar";"MMR";"Ministry of Cooperatives";"NG - National Government";2013;"ExImBank";86;"Agriculture, food";0;0;0;1
+"Umm Kaddada Alfashir Road Construction";"Sudan";"SDN";"Government";"NG - National Government";2009;"ExImBank";86;"Transport";0;0;0;1
+"Lusaka National Stadium Construction";"Zambia";"ZMB";"Government";"NG - National Government";2010;"ExImBank";86;"Other construction";0;0;0;1
+"Luanda/Soyo Highway Construction (infrastructure work for Nzeto/Soyo section)";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";85;"Transport";0;1;0;0
+"South Atlantic Inter Link (SAIL) Project";"Cameroon";"CMR";"Government";"NG - National Government";2015;"ExImBank";85;"Telecom";0;1;0;0
+"Agno River Integrated Irrigation";"Philippines";"PHL";"National Irrigation Administration";"SOE - State-Owned Entity";2009;"ExImBank";85;"Government";1;0;1;0
+"Rockwell-Estrella Bridge";"Philippines";"PHL";"Government";"NG - National Government";2016;"ExImBank";85;"Transport";0;0;0;1
+"Electrical Substations in Luzira; Namanve; Mukono and Iganga Industrial Parks Construction";"Uganda";"UGA";"Government";"NG - National Government";2016;"ExImBank";85;"Power";1;0;0;0
+"Angola's Railways Workshops Rehabilitation and Modernization";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";83;"Manufacturing";0;0;0;1
+"National Fibre Optic Backbone Expansion";"Cameroon";"CMR";"Government";"NG - National Government";2014;"ExImBank";83;"Telecom";0;0;0;1
+"Addis Ababa Transmission Lines";"Ethiopia";"ETH";"Government";"NG - National Government";2017;"ExImBank";83;"Power";0;1;1;0
+"National Broadband Project";"Senegal";"SEN";"Government";"NG - National Government";2015;"ExImBank";81,6;"Telecom";1;1;1;0
+"Electrification of the Gomel-Zhlobin-Osipovichi Section";"Belarus";"BLR";"Government";"NG - National Government";2012;"ExImBank";80,72;"Transport";1;0;0;0
+"Trains Purchase";"Tunisia";"TUN";"Tunisian National Railways Company";"SOE - State-Owned Entity";2009;"ExImBank";80,1;"Transport";0;0;0;1
+"Upgrade of RN5";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2015;"ExImBank";80;"Transport";1;1;1;0
+"Simón Bolívar highway";"Ecuador";"ECU";"Government";"NG - National Government";2013;"ExImBank";80;"Transport";0;1;0;0
+"Camaiangala Farm";"Angola";"AGO";"Government";"NG - National Government";2013;"CDB";79;"Agriculture, food";0;0;0;1
+"Malawi Science and Technology University Construction";"Malawi";"MWI";"Government";"NG - National Government";2011;"ExImBank";79;"Government";0;0;0;1
+"National Broadband Network Project";"Mali";"MLI";"Government";"NG - National Government";2014;"ExImBank";79;"Telecom";0;0;0;1
+"National Broadband Network Project";"Mali";"MLI";"Government";"NG - National Government";2014;"ExImBank";79;"Telecom";0;0;0;1
+"Building and Rehabilitating 251 wells in 13 districts";"Senegal";"SEN";"Government";"NG - National Government";2016;"ExImBank";79;"Government";0;0;0;1
+"Rehabilitation of 500-kilowatt Power Transmission Line";"Tajikistan";"TJK";"Government";"NG - National Government";2017;"ExImBank";79;"Power";0;0;0;1
+"Construction of National Road No 59";"Cambodia";"KHM";"Government";"NG - National Government";2011;"ExImBank";78,87;"Transport";0;1;1;0
+"Greater Kurunegala Water Supply and Seweage Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2013;"ExImBank";78,6;"Government";0;0;0;1
+"Construction of national road No. 44";"Cambodia";"KHM";"Government";"NG - National Government";2013;"ExImBank";78,19;"Transport";1;1;1;0
+"SMEs in the agricultural sector within UEMOA zone";"Regional";NA;"Banque Ouest Africaine";"Regional body";2011;"CDB";77,8;"Agriculture, food";0;0;0;1
+"Dakar Loop Power Transmission (Phase II)";"Senegal";"SEN";"Government";"NG - National Government";2010;"ExImBank";77,7;"Power";0;1;0;0
+"Longa Farm";"Angola";"AGO";"Government";"NG - National Government";2012;"CDB";77;"Agriculture, food";0;0;0;1
+"ICT Fiber Optic Cable Network Project (Phase I)";"Tanzania";"TZA";"Government";"NG - National Government";2008;"ExImBank";77;"Telecom";0;0;0;1
+"Keltiga Junction to Kagamuga Airport - 4 Lane";"Papua New Guinea";"PNG";"Government";"NG - National Government";2018;"ExImBank";76,69;"Transport";0;1;0;0
+"Electrification of Molodechno-Gudogay-State Border Line";"Belarus";"BLR";"Government";"NG - National Government";2013;"ExImBank";76,4;"Transport";0;0;0;1
+"Water Supply System Construction- Part Two (Cabinda)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";76;"Government";0;0;0;1
+"Water Supply System Part One Construction (Cabinda)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";76;"Government";0;1;0;0
+"Bui Hydropower Project 400MW Additional Finance Loan 2 (Total= $749.6mn)";"Ghana";"GHA";"Government";"NG - National Government";2012;"ExImBank";76;"Power";1;1;0;0
+"SORAZ-Zinder et Maradi-Malbaza Transmission Line Construction (132kV)";"Niger";"NER";"Government";"NG - National Government";2013;"ExImBank";76;"Power";0;0;0;1
+"Thakot - Raikot Karakoram Highway (Upgrade)";"Pakistan";"PAK";"Government";"NG - National Government";2017;"ExImBank";76;"Transport";1;1;1;0
+"National Identification Project";"Papua New Guinea";"PNG";"Government";"NG - National Government";2013;"ExImBank";76;"Government";0;0;0;1
+"Huye – Kibeho - Munini Road Upgrade";"Rwanda";"RWA";"Government";"NG - National Government";2018;"ExImBank";76;"Transport";0;0;0;1
+"Phnom Penh Loop Line Phase 2";"Cambodia";"KHM";"Government";"NG - National Government";2013;"ExImBank";75,86;"Power";0;1;0;0
+"STELCO 5th Power Development";"Maldives";"MDV";"State Electric Company";"SOE - State-Owned Entity";2016;"ExImBank";75,4;"Power";0;1;0;0
+"Highway Section from Pinnaduwa to Kodagoda";"Sri Lanka";"LKA";"Government";"NG - National Government";2011;"ExImBank";75,1;"Transport";0;0;0;1
+"Cabinda Urban Road Construction";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";75;"Transport";0;1;0;0
+"Social Housing Construction";"Cameroon";"CMR";"Government";"NG - National Government";2011;"ExImBank";75;"Government";0;0;0;1
+"Bui Hydropower Project 400MW Additional Finance Loan 1(Total= $749.6mn)";"Ghana";"GHA";"Government";"NG - National Government";2012;"ExImBank";75;"Power";1;1;0;0
+"Osh-Irkeshtam road Construction";"Kyrgyz Republic";"KGZ";"Government";"NG - National Government";2008;"ExImBank";75;"Transport";0;1;0;0
+"New Lome International Airport (CL portion)";"Togo";"TGO";"Government";"NG - National Government";2012;"ExImBank";75;"Transport";0;0;0;1
+"New Lome International Airport (EBC portion)";"Togo";"TGO";"Government";"NG - National Government";2012;"ExImBank";75;"Transport";0;0;0;1
+"Nadarivatu Dam";"Fiji";"FJI";"Government";"NG - National Government";2009;"CDB";74,4;"Power";0;1;0;0
+"Gabon Border Road; Okoyo-Lékéty-Frontier Road (Phase II)";"Congo, Republic of the";"COG";"Government";"NG - National Government";2012;"ExImBank";73,7;"Transport";0;1;0;0
+"Rehabiitation & Improvement of Puttalam-Marichchikade-Mannar Road";"Sri Lanka";"LKA";"Government";"NG - National Government";2011;"ExImBank";73,2;"Transport";1;1;0;0
+"Zanzibar Airport Terminal 2 Expansion";"Tanzania";"TZA";"Government";"NG - National Government";2010;"ExImBank";73;"Transport";0;0;0;1
+"National Optic Fibre Backbone Infrastructure (Phase II); E-government";"Kenya";"KEN";"Government";"NG - National Government";2012;"ExImBank";72,5;"Telecom";0;1;1;0
+"Mozambique presidential palace Project";"Mozambique";"MOZ";"Government";"NG - National Government";2013;"ExImBank";72;"Government";0;1;0;0
+"Jamaica Economic Housing Project: St. Ann, St. Elizabeth";"Jamaica";"JAM";"Government";"NG - National Government";2011;"ExImBank";71,2;"Government";0;0;0;1
+"MA60 Chinese Aircrafts Purchase";"Cameroon";"CMR";"Government";"NG - National Government";2013;"ExImBank";71;"Transport";0;0;0;1
+"China Maldives Friendship Bridge";"Maldives";"MDV";"Government";"NG - National Government";2016;"ExImBank";71;"Transport";0;1;0;0
+"Kigali Urban Road Upgrade";"Rwanda";"RWA";"Government";"NG - National Government";2016;"ExImBank";71;"Transport";0;1;0;0
+"Kigali Urban Road Upgrade";"Rwanda";"RWA";"Government";"NG - National Government";2016;"ExImBank";71;"Transport";0;0;0;1
+"Foundiougne Brigde Construction";"Senegal";"SEN";"Government";"NG - National Government";2016;"ExImBank";71;"Transport";0;1;0;0
+"Rural Base Stations Construction - 250 Units";"Zimbabwe";"ZWE";"NetOne";"SOE - State-Owned Entity";2017;"ExImBank";71;"Telecom";0;0;0;1
+"Expansion of National Road No. 6";"Cambodia";"KHM";"Government";"NG - National Government";2011;"ExImBank";70,25;"Transport";0;1;1;0
+"Chroy Changvar-Thnal Keng Section - National Road 6 (Widening)";"Cambodia";"KHM";"Government";"NG - National Government";2011;"ExImBank";70,25;"Transport";0;0;0;1
+"Fishing Boats Purchase";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";70;"Agriculture, food";0;0;0;1
+"Asphalting Odienné-Gbéléban Road";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2017;"ExImBank";70;"Transport";1;1;1;0
+"Meskere Sq-Bole Road Construction";"Ethiopia";"ETH";"Government";"NG - National Government";2011;"ExImBank";70;"Transport";0;0;1;0
+"Bingu National Stadium Construction";"Malawi";"MWI";"Government";"NG - National Government";2012;"ExImBank";70;"Other construction";0;0;0;1
+"Development of 1000 Housing Units in Hulhumale";"Maldives";"MDV";"Government";"NG - National Government";2010;"ExImBank";70;"Government";0;1;0;0
+"Electronic Postal Program";"Cameroon";"CMR";"Campost";"SOE - State-Owned Entity";2011;"ExImBank";69;"Government";0;0;0;1
+"Tiébissou-Bouaké Highway Construction";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2018;"ExImBank";69;"Transport";0;1;0;0
+"Post-earthquake reconstruction";"Ecuador";"ECU";"Government";"NG - National Government";2018;"ExImBank";69;"Other construction";0;0;0;1
+"Guimba Farm";"Angola";"AGO";"Government";"NG - National Government";2014;"ExImBank";68;"Agriculture, food";0;0;0;1
+"Kenya Nationwide Airborne Geophysical Survey";"Kenya";"KEN";"Government";"NG - National Government";2017;"ExImBank";68;"Government";0;0;0;1
+"Maputo International Airport Renovation (Phase I)";"Mozambique";"MOZ";"Government";"NG - National Government";2009;"ExImBank";67;"Transport";0;0;0;1
+"National Backbone Transmission (Project II)";"Uganda";"UGA";"Government";"NG - National Government";2011;"ExImBank";67;"Telecom";1;1;0;0
+"Mpila High School Construction";"Congo, Republic of the";"COG";"Government";"NG - National Government";2013;"ExImBank";66,1;"Government";0;0;0;1
+"4G Telecommunications Infrastructure Construction";"Benin";"BEN";"Government";"NG - National Government";2015;"ExImBank";66;"Telecom";1;0;1;0
+"Agboville-Rubino-Ceshi Road Asphalting";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2017;"ExImBank";66;"Transport";0;0;0;1
+"Maurice Bishop International Airport Upgrade";"Grenada";"GRD";"Government";"NG - National Government";2017;"ExImBank";66;"Transport";0;1;0;0
+"Smart Zambia National ICT Development (Phase I)";"Zambia";"ZMB";"Government";"NG - National Government";2015;"ExImBank";66;"Telecom";0;0;0;1
+"Bunkering Facility and Tank Farm Project at Hambantota port";"Sri Lanka";"LKA";"Government";"NG - National Government";2009;"ExImBank";65,1;"Transport";0;0;0;1
+"National Geology Plan Project";"Angola";"AGO";"Government";"NG - National Government";2017;"ExImBank";65;"Government";0;0;0;1
+"Balikpapan – Samarinda Road Development";"Indonesia";"IDN";"Government";"NG - National Government";2010;"ExImBank";65;"Transport";1;1;0;0
+"Electrification of the Zhlobin - Kalinkovichi Section";"Belarus";"BLR";"Government";"NG - National Government";2012;"ExImBank";64;"Transport";1;0;0;0
+"Goubet Salt Port Project";"Djibouti";"DJI";"Government";"NG - National Government";2012;"ExImBank";64;"Transport";0;0;0;1
+"Highway Section from Kodagoda to Godagama";"Sri Lanka";"LKA";"Government";"NG - National Government";2011;"ExImBank";63,1;"Transport";1;1;0;0
+"Ethiopia-Djibouti Railway Transmission Line Power Supply";"Ethiopia";"ETH";"Ethiopian Electric Power Corporation";"SOE - State-Owned Entity";2015;"ExImBank";63;"Power";1;1;1;0
+"South Kordofan Um Rawaba- Abu Gibeha Ring Road / 141 Road / Aum Roaba - Abu Gebaha Road Construction";"Sudan";"SDN";"Government";"NG - National Government";2009;"ExImBank";63;"Transport";0;0;0;1
+"Mpila Business District Development";"Congo, Republic of the";"COG";"Government";"NG - National Government";2014;"ExImBank";62,3;"Other construction";0;0;0;1
+"CRTV Rehabilitation";"Cameroon";"CMR";"Government";"NG - National Government";2016;"ExImBank";62;"Telecom";0;0;0;1
+"Various Machinery Supply (Phase II)";"Eritrea";"ERI";"Government";"NG - National Government";2012;"ExImBank";62;"Mulit-sector/discretionary";0;0;0;1
+"Concord Residences Construction (Phase II)";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2010;"ExImBank";61;"Government";0;0;0;1
+"Cabinda Airport Expansion";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";60;"Transport";0;0;0;1
+"Soyo City River and Land Terminal Construction";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";60;"Transport";0;1;0;0
+"EN230 Road Project (Lot 2)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";60;"Transport";0;0;0;1
+"Drilling Rig Export";"Bolivia";"BOL";"Government";"NG - National Government";2009;"ExImBank";60;"Extraction, pipelines";0;0;0;1
+"N'Djili Airport Runway Refurbishment";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2012;"ExImBank";60;"Transport";0;0;0;1
+"Jesus Rabi Biomass Power Plant 20 MW";"Cuba";"CUB";"Azcuba";"SOE - State-Owned Entity";2015;"ExImBank";60;"Power";0;0;0;1
+"Chokwe Agro-Processing Complex Construction";"Mozambique";"MOZ";"Government";"NG - National Government";2012;"ExImBank";60;"Agriculture, food";0;0;0;1
+"SMEs";"Regional";NA;"Trade and Development Bank";NA;2014;"CDB";60;"Government";0;0;0;1
+"SMEs";"Regional";NA;"Trade and Development Bank";NA;2014;"CDB";60;"Government";0;0;0;1
+"SMEs";"Regional";NA;"Trade and Development Bank";NA;2014;"CDB";60;"Government";0;0;0;1
+"Expressway Construction (connecting Port of Toamasina and RN2)";"Madagascar";"MDG";"Government";"NG - National Government";2018;"ExImBank";59;"Transport";0;1;0;0
+"Sennar Bridge Construction";"Sudan";"SDN";"Government";"NG - National Government";2010;"ExImBank";59;"Transport";0;0;0;1
+"Palisadoes Peninsula repair";"Jamaica";"JAM";"Government";"NG - National Government";2010;"ExImBank";58,1;"Government";1;1;0;0
+"Nassau Airport Gateway Project";"Bahamas";"BHS";"Government";"NG - National Government";2011;"ExImBank";58;"Transport";0;1;0;0
+"Beni-Luna Road Refurbishment (Phase I)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2008;"ExImBank";58;"Transport";1;1;1;0
+"Chico River Pump Irrigation Project";"Philippines";"PHL";"Government";"NG - National Government";2017;"ExImBank";58;"Government";0;0;0;1
+"Rehabilitation of National Road 62 & National Road 210";"Cambodia";"KHM";"Government";"NG - National Government";2008;"ExImBank";57,8;"Transport";1;1;1;0
+"Procurement of Power Lines Material (Loan 2)";"Kenya";"KEN";"Government";"NG - National Government";2008;"ExImBank";57,2;"Power";0;0;0;1
+"Adjarala Dam Project (Add-on Loan)";"Togo";"TGO";"Government";"NG - National Government";2016;"ExImBank";57;"Power";0;0;0;1
+"Tonga High school Sports Complex for 2019 Pacific Games";"Tonga";"TON";"Government";"NG - National Government";2017;"ExImBank";57;"Other construction";0;0;0;1
+"Road Reconstruction";"Vanuatu";"VUT";"Government";"NG - National Government";2014;"ExImBank";57;"Transport";0;1;0;0
+"Vahdat-Javan railway section upgrade";"Tajikistan";"TJK";"Government";"NG - National Government";2014;"ExImBank";56,9;"Transport";0;0;0;1
+"Expansion of Cambodia National Road No. 5";"Cambodia";"KHM";"Government";"NG - National Government";2012;"ExImBank";56,8;"Transport";0;0;1;0
+"Cabinda Sea and Land Terminal Construction";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";56;"Transport";0;0;0;1
+"Equipment to Kenya's National Youth Service";"Kenya";"KEN";"Government";"NG - National Government";2010;"ExImBank";56;"Government";0;0;0;1
+"Cazenga/Sambizanga Infrastructures Construction (2nd disbursement, part 1)";"Angola";"AGO";"Government";"NG - National Government";2011;"CDB";55;"Government";0;0;0;1
+"Malanje Road Rehabilitation";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";55;"Transport";0;0;0;1
+"Oyo Harbour Construction";"Congo, Republic of the";"COG";"Government";"NG - National Government";2013;"ExImBank";55;"Transport";0;1;0;0
+"Public Solar Street Lamp Project";"Togo";"TGO";"Government";"NG - National Government";2014;"ExImBank";55;"Power";0;0;0;1
+"Marçal Water Distribution Centre Rehabilitation";"Angola";"AGO";"Government";"NG - National Government";2013;"CDB";54,4;"Government";0;0;0;1
+"Camama Road Infrastructure (3rd disbursement)";"Angola";"AGO";"Government";"NG - National Government";2012;"CDB";54;"Transport";0;0;0;1
+"Cazenga/Sambizanga Infrastructures Construction (2nd disbursement, part 2)";"Angola";"AGO";"Government";"NG - National Government";2012;"CDB";54;"Government";0;0;0;1
+"Rural Power Grid Extension Project Phase 1";"Cambodia";"KHM";"Government";"NG - National Government";2009;"ExImBank";53,56;"Power";0;0;0;1
+"Rehabilitation of Cambodia National Road No.62";"Cambodia";"KHM";"Government";"NG - National Government";2010;"ExImBank";53,56;"Transport";1;1;1;0
+"EN230 Road Project (Lot 1)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";53;"Transport";0;1;0;0
+"Mekin Hydropower Project (15MW)";"Cameroon";"CMR";"Government";"NG - National Government";2009;"ExImBank";53;"Power";0;1;0;0
+"Luanda/Soyo Highway Construction (Bridge over M'Bridge River)";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";52,7;"Transport";0;1;0;0
+"Citizen security project";"Bolivia";"BOL";"Government";"NG - National Government";2016;"ExImBank";52,7;"Government";0;0;0;1
+"CTPhone Construction";"Cameroon";"CMR";"Camtel";"SOE - State-Owned Entity";2009;"ExImBank";52;"Telecom";0;0;0;1
+"Abidjan Video Surveillance Platform Project";"Cote d'Ivoire";"CIV";"Government";"NG - National Government";2016;"ExImBank";52;"Government";0;0;0;1
+"Convention Centre and Government Offices";"Samoa";"WSM";"Shanghai Construction Group";"SOE - State-Owned Entity";2008;"ExImBank";52;"Other construction";0;1;0;0
+"Air Express Airport Railway";"Ukraine";"UKR";"Government";"NG - National Government";2009;"ExImBank";52;"Transport";1;0;0;0
+"Electrification Contract";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";51;"Power";0;0;0;1
+"Electrification Contract-22,500 Home Connections (Lubango/Matla, Huila)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";51;"Power";0;0;0;1
+"Huíla Road Rehabilitation (Phase II)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";51;"Transport";0;0;0;1
+"Rehabilitation of Five Roads (Luanda Province)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";51;"Transport";0;0;0;1
+"Water Supply System Construction (Luanda)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";51;"Government";0;1;0;0
+"RN5 National Road Grading (Phase I)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2008;"ExImBank";51;"Transport";1;1;1;0
+"Hambantota Port Development Project -Phase II Buyer Credit";"Sri Lanka";"LKA";"Government";"NG - National Government";2012;"ExImBank";51;"Transport";0;0;0;1
+"Nyala Water Supply Project";"Sudan";"SDN";"Government";"SNG - Sub-national Government";2008;"ExImBank";51;"Government";0;0;0;1
+"Xeset III Hydropower Project";"Laos";"LAO";"Government";"NG - National Government";2014;"ExImBank";50,73;"Power";0;0;1;0
+"Road rehabilitation and upgrade project Phase 2";"Vanuatu";"VUT";"Government";"NG - National Government";2018;"ExImBank";50,39;"Transport";0;0;0;1
+"Integrated Government Information Network (IGIS)";"Papua New Guinea";"PNG";"Government";"NG - National Government";2010;"ExImBank";50,32;"Telecom";0;0;0;1
+"“Lar Patriota"" Infrastructure (Phase 1)";"Angola";"AGO";"Government";"NG - National Government";2011;"CDB";50;"Transport";0;0;0;1
+"Cuanza-Sul, EN100 Road Rehabilitation, Cabo Ledo-Lobito Road (Lot 2), Ponte do Rio Longa-Ponte do Rio Keve";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";50;"Transport";0;1;0;0
+"Cabina University Campus Construction Contract (Phase II)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";50;"Government";0;0;0;1
+"Lar do Patriota Basic Infrastructure (Phase II)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";50;"Transport";0;1;0;0
+"Road Rehabilitation (Uige)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";50;"Transport";0;1;0;0
+"Esmeraldas thermoelectric plant";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";50;"Power";0;0;0;1
+"Fiji rural roads";"Fiji";"FJI";"Government";"NG - National Government";2008;"ExImBank";50;"Transport";0;1;0;0
+"SOTELGUI National Telecom Project";"Guinea";"GIN";"Government";"NG - National Government";2014;"ExImBank";50;"Telecom";0;0;0;1
+"Mekong Bridge at Pakbeng";"Laos";"LAO";"Government";"NG - National Government";2010;"ExImBank";50;"Transport";0;1;1;0
+"Roberts International Airport Rehabilitation";"Liberia";"LBR";"Government";"NG - National Government";2017;"ExImBank";50;"Transport";0;0;0;1
+"Potable Water Project";"Niger";"NER";"Government";"NG - National Government";2012;"ExImBank";50;"Government";0;0;1;0
+"Discretionary";"Peru";"PER";"Corporación Financiera de Desarrollo S.A. (Cofide)";"SOE - State-Owned Entity";2009;"CDB";50;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Peru";"PER";"Corporación Financiera de Desarrollo S.A. (Cofide)";"SOE - State-Owned Entity";2009;"CDB";50;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Peru";"PER";"Corporación Financiera de Desarrollo S.A. (Cofide)";"SOE - State-Owned Entity";2009;"CDB";50;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Peru";"PER";"Corporación Financiera de Desarrollo S.A. (Cofide)";"SOE - State-Owned Entity";2009;"CDB";50;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Peru";"PER";"Corporación Financiera de Desarrollo S.A. (Cofide)";"SOE - State-Owned Entity";2009;"CDB";50;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Peru";"PER";"Corporación Financiera de Desarrollo S.A. (Cofide)";"SOE - State-Owned Entity";2009;"CDB";50;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Peru";"PER";"Corporación Financiera de Desarrollo S.A. (Cofide)";"SOE - State-Owned Entity";2009;"CDB";50;"Mulit-sector/discretionary";0;0;0;1
+"Discretionary";"Peru";"PER";"Corporación Financiera de Desarrollo S.A. (Cofide)";"SOE - State-Owned Entity";2009;"CDB";50;"Mulit-sector/discretionary";0;0;0;1
+"Multisector";"Regional";NA;"Trade and Development Bank";NA;2008;"CDB";50;"Mulit-sector/discretionary";0;0;0;1
+"Bilateral Term Loan Facility";"Regional";NA;"African Export-Import Bank";"Regional body";2016;"ExImBank";50;"Government";0;0;0;1
+"Bugesera International Airport Access Road Construction";"Rwanda";"RWA";"Government";"NG - National Government";2018;"ExImBank";50;"Transport";0;0;0;1
+"Dili sewage system";"Timor-Leste";"TLS";"Government";"NG - National Government";2015;"ExImBank";50;"Government";0;0;0;1
+"Irrigation Canal Construction (Phase I)";"Angola";"AGO";"Government";"NG - National Government";2011;"CDB";49;"Government";1;0;0;0
+"Cuanza-Sul EN120 Rehabilitation (Part 5)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";49;"Transport";0;0;0;1
+"Enterprise Messaging and Collaboration System Project";"Kenya";"KEN";"Government";"NG - National Government";2011;"ExImBank";48,9;"Telecom";0;0;0;1
+"Rehabilitation and Improvement of Navatkuli-Karaitivu-Mannar Road";"Sri Lanka";"LKA";"Government";"NG - National Government";2011;"ExImBank";48,4;"Transport";1;1;0;0
+"Minsk-Severnaya Substation (Renovation)";"Belarus";"BLR";"Government";"NG - National Government";2015;"ExImBank";48,3;"Power";0;0;0;1
+"Lunda-Sul Road Rehabilitation (Xinge-Lubalo Connection)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";48;"Transport";0;0;0;1
+"E-government Project (Phase II)";"Senegal";"SEN";"Government";"NG - National Government";2012;"ExImBank";48;"Telecom";0;0;0;1
+"NetOne Telecome Network Expansion (Phase I)";"Zimbabwe";"ZWE";"NetOne";"SOE - State-Owned Entity";2010;"ExImBank";48;"Telecom";0;0;0;1
+"Construction of 200 Housing Units in Mpila district";"Congo, Republic of the";"COG";"Government";"NG - National Government";2012;"ExImBank";47,9;"Government";0;0;0;1
+"Purchase of Bulk Cargo Ships";"Montenegro";"MNE";"Government";"NG - National Government";2010;"ExImBank";47,4;"Transport";0;0;0;1
+"1000 housing project";"Suriname";"SUR";"Government";"NG - National Government";2012;"ExImBank";47,3;"Government";0;0;0;1
+"Construction and Development of the Seaplane Facilities at VIA";"Maldives";"MDV";"Maldives Airports Company Limited";"SOE - State-Owned Entity";2018;"CDB";47,17;"Transport";0;1;0;0
+"Kirirom III Hydropower Plant";"Cambodia";"KHM";"Government";"NG - National Government";2008;"ExImBank";47,1;"Power";1;1;0;0
+"Mobile Hospital Project";"Zambia";"ZMB";"Government";"NG - National Government";2010;"ExImBank";47;"Government";0;0;0;1
+"Luanda/Soyo Highway Construction (Package 5)";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";46,4;"Transport";0;1;0;0
+"Luanda/Soyo Highway Construction (Package 6)";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";46,4;"Transport";0;1;0;0
+"Upgrading MT/BT Networks - Lunda-Norte and Lunda-Sul (Dundo & Saurimo)";"Angola";"AGO";"Government";"NG - National Government";2008;"ExImBank";46;"Power";0;0;0;1
+"Luanda-Soyo Highway; Nzeto-Soyo section (Package 7)";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";46;"Transport";0;1;0;0
+"Rua 12 de Julho Road Work (Sambizanga)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";46;"Transport";0;0;0;1
+"Huíla Road Rehabilitation (Phase I)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";46;"Transport";0;0;0;1
+"Non-intrusive container scanning equipment Purchase";"Zambia";"ZMB";"Government";"NG - National Government";2009;"ExImBank";46;"Government";0;0;0;1
+"East Coast Demerara highway";"Guyana";"GUY";"Goverment";"NG - National Government";2017;"ExImBank";45;"Transport";0;1;0;0
+"Kariba North Bank and Kafue West Transmission";"Zambia";"ZMB";"Zambia Electricity Supply Corporation Limited";"SOE - State-Owned Entity";2014;"ExImBank";45;"Power";1;1;0;0
+"Limbe Stadium Construction";"Cameroon";"CMR";"Government";"NG - National Government";2009;"ExImBank";44;"Other construction";0;1;0;0
+"Fiber Optics and Telecom Modernization Project";"Mali";"MLI";"Government";"NG - National Government";2011;"ExImBank";44;"Telecom";0;0;0;1
+"Pakistan-China Cross-border Fiber Optic Cable";"Pakistan";"PAK";"Government";"NG - National Government";2013;"ExImBank";44;"Telecom";1;0;1;0
+"Niamtougou Airport Redevelopment";"Togo";"TGO";"Government";"NG - National Government";2016;"ExImBank";44;"Transport";0;0;1;0
+"National Road Improvement Program";"Tonga";"TON";"Government";"NG - National Government";2010;"ExImBank";42,98;"Transport";0;1;0;0
+"Purchase of freight locomotives";"Uzbekistan";"UZB";"Government";"NG - National Government";2011;"ExImBank";42,17;"Transport";0;0;0;1
+"SMEs";"Regional";NA;"Development Bank of Central Africa";"Regional body";2016;"CDB";42,1;"Government";0;0;0;1
+"SMEs";"Regional";NA;"Development Bank of Central Africa";"Regional body";2016;"CDB";42,1;"Government";0;0;0;1
+"SMEs";"Regional";NA;"Development Bank of Central Africa";"Regional body";2016;"CDB";42,1;"Government";0;0;0;1
+"Dehkanabad potash plant (Phase 1)";"Uzbekistan";"UZB";"Government";"NG - National Government";2010;"ExImBank";41,7;"Manufacturing";0;0;0;1
+"Student dormitory of Goroka University";"Papua New Guinea";"PNG";"Government";"NG - National Government";2011;"ExImBank";41,5;"Government";0;0;0;1
+"SMEs";"Regional";NA;"Development Bank of Central Africa";"Regional body";2013;"CDB";41,2;"Government";0;0;0;1
+"SMEs";"Regional";NA;"Development Bank of Central Africa";"Regional body";2013;"CDB";41,2;"Government";0;0;0;1
+"SMEs";"Regional";NA;"Development Bank of Central Africa";"Regional body";2013;"CDB";41,2;"Government";0;0;0;1
+"Supply of Two Nos.MA60 Aircraft Project";"Sri Lanka";"LKA";"Government";"NG - National Government";2010;"ExImBank";41,1;"Transport";0;0;0;1
+"Benguela, EN100 Road Rehabilitation, Cabo Ledo-Lobito (Lot 5), Ponte do Rio Eval/ Ponte do Rio Culango";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";41;"Transport";0;1;0;0
+"Water Supply System Construction (Muxaluando, Bengo)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";41;"Government";0;0;0;1
+"Abaco infrastructure works: North Abaco Port and Little Abaco Bridge";"Bahamas";"BHS";"Government";"NG - National Government";2012;"ExImBank";41;"Other construction";0;1;0;0
+"Ivato-Tsarasoatra Road Rehabilitation";"Madagascar";"MDG";"Government";"NG - National Government";2018;"ExImBank";41;"Transport";0;1;0;0
+"National Medical Centre and Ministry of Health Headquarters";"Samoa";"WSM";"Government";"NG - National Government";2008;"ExImBank";41;"Government";0;0;0;1
+"Expansion of National Road No. 51";"Cambodia";"KHM";"Government";"NG - National Government";2017;"ExImBank";40,9;"Transport";0;1;0;0
+"Headquarters of Government, Police Stations, and Warehouses in Cabinda (Phase 1)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";40;"Government";0;0;0;1
+"Government Internal Telecom Network Project";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2011;"ExImBank";40;"Telecom";0;0;0;1
+"Chief Prosecutor, Attorney General's Office/ Mozambican Office of Auditor-General Construction";"Mozambique";"MOZ";"Government";"NG - National Government";2011;"ExImBank";40;"Government";0;0;0;1
+"Grand six-lane boulevard (Independence Boulevard)";"Papua New Guinea";"PNG";"Government";"NG - National Government";2017;"ExImBank";40;"Transport";0;0;0;1
+"3 Training Centers and Equipment for Angolan Railway Companies";"Angola";"AGO";"Government";"NG - National Government";2016;"ExImBank";39;"Transport";0;0;0;1
+"Water Supply System Construction (Cuito, Bié)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";39;"Government";0;0;0;1
+"Avenue Nzolana Rehabilitation and Anti-Erosion Control";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2016;"ExImBank";39;"Transport";0;0;0;1
+"Procurement of Vehicles for Police Force";"Myanmar";"MMR";"Government";"NG - National Government";2015;"ExImBank";39;"Government";0;0;0;1
+"Guyana Power and Light (GPL) Transmission and Distribution Infrastructure Development Project";"Guyana";"GUY";"Government";"NG - National Government";2011;"ExImBank";38,96;"Power";0;1;0;0
+"Bishkek-Balykchy Road (Rehabilitation)";"Kyrgyzstan";"KGZ";"Government";"NG - National Government";2012;"ExImBank";38,4;"Transport";0;1;0;0
+"Cabinda Breakwater Construction";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";38;"Other construction";0;0;0;1
+"Cuanza-Sul EN120 Rehabilitation (Part 3)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";38;"Transport";0;1;0;0
+"Malanje Youth House Construction";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";38;"Government";0;0;0;1
+"V.C Bird International Airport Terminal Project";"Antigua & Barbuda";"ATG";"Government";"NG - National Government";2010;"ExImBank";38;"Transport";0;0;0;1
+"Upgrading Vientiane's Wattay International Airport";"Laos";"LAO";"Government";"NG - National Government";2011;"ExImBank";37,6;"Transport";0;0;0;1
+"Villonaco Wind Farm";"Ecuador";"ECU";"Petroecuador";"SOE - State-Owned Entity";2011;"CDB";37,5;"Power";0;0;0;1
+"Liouesso Hydropower Project Transmission Line to Ouesso";"Congo, Republic of the";"COG";"Government";"NG - National Government";2012;"ExImBank";37,4;"Power";0;1;1;0
+"Construction of 3000 Social Houses";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";37;"Government";0;0;0;1
+"Khujand-Ayni power grid";"Tajikistan";"TJK";"Government";"NG - National Government";2010;"ExImBank";36,9;"Power";1;1;0;0
+"E-Government Project 4";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";36;"Telecom";0;0;0;1
+"Ministry of Energy and Water Training Center & Database";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";36;"Telecom";0;0;0;1
+"Fiber-Optic Cables Project (Phase I)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2008;"ExImBank";36;"Telecom";1;1;0;0
+"Government Administrative Building Construction";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2015;"ExImBank";36;"Government";0;0;0;1
+"Fiji Public Rental Housing Project";"Fiji";"FJI";"Government";"NG - National Government";2010;"ExImBank";36;"Government";0;1;0;0
+"Kigali Urban Road Upgrade";"Rwanda";"RWA";"Government";"NG - National Government";2009;"ExImBank";36;"Transport";0;1;0;0
+"Kigali Urban Road Upgrade";"Rwanda";"RWA";"Government";"NG - National Government";2009;"ExImBank";36;"Transport";0;0;0;1
+"MA 60 and Y12 air crafts purchase";"Nepal";"NPL";"Nepal Airline Corporation";"SOE - State-Owned Entity";2016;"ExImBank";35,19;"Transport";0;0;0;1
+"Lwambo-Mitwaba-Manono-Kalemie Road Asphalting (Phase I)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2013;"ExImBank";35;"Transport";1;1;1;0
+"Irrigation Canal Construction (Phase II)";"Angola";"AGO";"Government";"NG - National Government";2012;"CDB";34;"Government";1;0;0;0
+"Luanda Rehabilitation of EN100 (part 1)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";34;"Transport";0;1;0;0
+"Machine Purchases and Training (Tranche 1)";"Angola";"AGO";"Government";"NG - National Government";2011;"CDB";33;"Agriculture, food";0;0;0;1
+"Machine Purchases and Training (Tranche 2)";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";33;"Agriculture, food";0;0;0;1
+"Water Supply System Construction(Ecunha, Huambo)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";33;"Government";0;1;0;0
+"E-government Trade Facilitation";"Cameroon";"CMR";"Government";"NG - National Government";2017;"ExImBank";33;"Telecom";0;0;0;1
+"RN2 Construction (crossing to Butembo)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2015;"ExImBank";33;"Transport";0;1;0;0
+"National security communication Project";"Senegal";"SEN";"Government";"NG - National Government";2009;"ExImBank";33;"Government";0;0;0;1
+"Procurement of Material for Lighting Sri Lanka - Uva Province";"Sri Lanka";"LKA";"Government";"NG - National Government";2011;"ExImBank";32,5;"Power";0;0;0;1
+"Cape Coast Kotokuraba Market Project";"Ghana";"GHA";"Government";"NG - National Government";2012;"ExImBank";32,1;"Other construction";0;0;0;1
+"Lunda Sul and Norte- Dundo and Saurimo Water Systems";"Angola";"AGO";"Government";"NG - National Government";2008;"CDB";32;"Government";0;0;0;1
+"Cotonou Administrative Towers Construction";"Benin";"BEN";"Government";"NG - National Government";2010;"ExImBank";32;"Other construction";0;0;0;1
+"Telecommunications Infrastructure Construction";"Comoros";"COM";"Government";"NG - National Government";2010;"ExImBank";32;"Telecom";0;0;0;1
+"University of Ghana Legon ICT-Enabled Distance Learning System project (Phase II)";"Ghana";"GHA";"Government";"NG - National Government";2012;"ExImBank";32;"Government";0;0;0;1
+"Fire Brigade Equipment Purchase";"Senegal";"SEN";"Government";"NG - National Government";2016;"ExImBank";32;"Government";0;0;0;1
+"CDMA Transmission Project";"Togo";"TGO";"Togo Telecom";"SOE - State-Owned Entity";2009;"ExImBank";32;"Telecom";0;0;0;1
+"Construction of Pakbeng-Ngeun bridge";"Laos";"LAO";"Government";"NG - National Government";2012;"ExImBank";31,2;"Transport";0;1;1;0
+"Rehabilitation And Upgrading Of Equipment In The Universities And Technical Training Institutes Project";"Kenya";"KEN";"Government";"NG - National Government";2011;"ExImBank";31,1;"Government";0;0;0;1
+"Camama Road Infrastructure (2nd disbursement)";"Angola";"AGO";"Government";"NG - National Government";2011;"CDB";31;"Transport";0;0;0;1
+"Water Supply Systems Rehabilitation";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";31;"Government";0;0;0;1
+"Futungo de Belas Project (Phase I)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";31;"Other construction";0;1;0;0
+"Cuanza-Sul, EN100 Rehabilitation, Cabo Ledo-Lobito Road (Lot 4), Sumbe-Ponte do Rio Eval";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";31;"Transport";0;1;0;0
+"Cuanza-Sul EN100 Road Rehabilitation";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";31;"Transport";1;1;0;0
+"Water Supply System Construction (Malanje City)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";31;"Government";0;0;0;1
+"Water Supply Systems in Catete and Uíge Rehabilitation and Reinforcement (Phase II)";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";30;"Government";0;0;0;1
+"Water Supply System Construction (M'Banza Congo)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";30;"Government";0;0;0;1
+"Trade finance: wine, fruit, food, pharmaceuticals, machinery, also renewable energy projects (renewal of 2007 loan)";"Argentina";"ARG";"BICE";"SOE - State-Owned Entity";2010;"CDB";30;"Mulit-sector/discretionary";0;0;0;1
+"E-government Project (Phase I)";"Ghana";"GHA";"Government";"NG - National Government";2009;"ExImBank";30;"Telecom";0;0;0;1
+"E-government Project (Phase II) - WiMax Network Upgrade (CL portion)";"Ghana";"GHA";"Government";"NG - National Government";2011;"ExImBank";30;"Telecom";0;0;0;1
+"Agro-Processing Centers Construction";"Mozambique";"MOZ";"Government";"NG - National Government";2009;"ExImBank";30;"Agriculture, food";0;0;0;1
+"SMEs Loan";"Mozambique";"MOZ";"Millennium BIM";"PPP - Public-Private Partnership";2011;"CDB";30;"Government";0;0;0;1
+"SMEs Loan";"Mozambique";"MOZ";"Millennium BIM";"PPP - Public-Private Partnership";2011;"CDB";30;"Government";0;0;0;1
+"SMEs Loan";"Mozambique";"MOZ";"Millennium BIM";"PPP - Public-Private Partnership";2011;"CDB";30;"Government";0;0;0;1
+"SMEs Loan";"Mozambique";"MOZ";"Millennium BIM";"PPP - Public-Private Partnership";2011;"CDB";30;"Government";0;0;0;1
+"National Medical Center and Ministry of Health Headquarters";"Samoa";"WSM";"MoH, NHS, Shanghai Construction Group";"NG, NG, SOE";2010;"ExImBank";30;"Government";0;1;0;0
+"Blue Nile Agricultural Improvement and Electricification";"Sudan";"SDN";"Government";"NG - National Government";2010;"ExImBank";30;"Mulit-sector/discretionary";0;0;0;1
+"Dushanbe-2 Combined Heat and Power (CHP) Plant";"Tajikistan";"TJK";"Barqi Tojik";"SOE - State-Owned Entity";2014;"ExImBank";30;"Power";0;0;0;1
+"SMEs Development Loan";"Zambia";"ZMB";"Development Bank of Zambia";"PPP - Public-Private Partnership";2015;"CDB";30;"Government";0;0;0;1
+"SMEs Development Loan";"Zambia";"ZMB";"Development Bank of Zambia";"PPP - Public-Private Partnership";2015;"CDB";30;"Government";0;0;0;1
+"Mansa to Luwingu Road Construction";"Zambia";"ZMB";"Government";"NG - National Government";2016;"CDB";30;"Transport";1;0;0;0
+"Mansa to Luwingu Road Construction";"Zambia";"ZMB";"Government";"NG - National Government";2016;"CDB";30;"Transport";1;0;0;0
+"Defense Project";"Zambia";"ZMB";"Government";"NG - National Government";2018;"ExImBank";30;"Government";0;0;0;1
+"Defense Project";"Zambia";"ZMB";"Government";"NG - National Government";2018;"ExImBank";30;"Government";0;0;0;1
+"Road Rehabilitation (Cuito, Bie)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";29;"Transport";0;0;0;1
+"Road Rehabilitation (Cuanza Norte)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";29;"Transport";0;0;0;1
+"Boulevards Triomphale et Sendwe Refurbishment (Phase I)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2008;"ExImBank";29;"Transport";0;0;0;1
+"New Sukala Sugar Refinery Construction";"Mali";"MLI";"N-Sukala";"PPP - Public-Private Partnership";2008;"ExImBank";29;"Agriculture, food";0;0;1;0
+"Vanuatu E-Government";"Vanuatu";"VUT";"Government";"NG - National Government";2008;"ExImBank";28,78;"Telecom";0;0;0;1
+"Saurimo's Airport Aerogare Construction";"Angola";"AGO";"Government";"NG - National Government";2010;"ExImBank";28;"Transport";0;0;0;1
+"Malanje River Dredging";"Angola";"AGO";"Government";"NG - National Government";2017;"CDB";28;"Other construction";0;0;0;1
+"Kouekong Stadium Construction";"Cameroon";"CMR";"Government";"NG - National Government";2009;"ExImBank";28;"Other construction";0;0;0;1
+"Thai Binh 2 Coal Power Plant";"Vietnam";"VNM";"Petrovietnam";"SOE - State-Owned Entity";2013;"CDB";27,89;"Power";0;0;0;1
+"5th Cambodia-China Friendship (New Chroy Changvar) Bridge";"Cambodia";"KHM";"Government";"NG - National Government";2011;"ExImBank";27,5;"Transport";0;0;0;1
+"20 Magnetic Resonance Imaging Equipment Purchase";"Kenya";"KEN";"Government";"NG - National Government";2015;"CDB";27,1;"Government";0;0;0;1
+"Malange MT/BT Networks (Phase II)";"Angola";"AGO";"Government";"NG - National Government";2008;"ExImBank";27;"Power";0;0;0;1
+"EN321 Rehabilitation";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";27;"Transport";0;0;0;1
+"Road Rehabilitation (Malanje)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";27;"Transport";0;0;0;1
+"Road Rehabilitation (Malanje)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";27;"Transport";0;0;0;1
+"Cruzamento-Cassongue Road Rehabilitation";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";27;"Transport";0;1;0;0
+"Unified power system";"Tajikistan";"TJK";"Government";"NG - National Government";2011;"ExImBank";26,5;"Power";0;0;0;1
+"Upgrading Luanda MT/BT Networks (Phase III)";"Angola";"AGO";"Government";"NG - National Government";2008;"ExImBank";26;"Power";0;0;0;1
+"Cuito Airport Construction";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";26;"Transport";0;0;0;1
+"N´Gola Kiluange Road Rehabilitation";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";26;"Transport";0;1;0;0
+"Eastern Butangbo Road Construction (Phase II)";"Congo, Democratic Republic of the";"COD";"Government";"NG - National Government";2010;"ExImBank";26;"Transport";0;0;0;1
+"Customs Equipment and Scanners Purchase";"Ethiopia";"ETH";"Government";"NG - National Government";2010;"ExImBank";26;"Government";0;0;0;1
+"Replacement of 1500 cars";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";25;"Transport";0;0;0;1
+"Water Supply System (Lunda-Norte and Lunda-Sul)";"Angola";"AGO";"Government";"NG - National Government";2011;"ExImBank";25;"Government";0;0;0;1
+"La Patriota Infrastructure Construction";"Angola";"AGO";"Government";"NG - National Government";2012;"CDB";25;"Transport";NA;NA;NA;NA
+"Road Rehabilitation (Malanje)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";25;"Transport";0;0;0;1
+"Road Rehabilitation (Malanje)";"Angola";"AGO";"Government";"NG - National Government";2016;"CDB";25;"Transport";0;0;0;1
+"SMEs Loan";"Ethiopia";"ETH";"Ethiopia Development Bank";"SOE - State-Owned Entity";2012;"CDB";25;"Government";0;0;0;1
+"SMEs Loan";"Ethiopia";"ETH";"Ethiopia Development Bank";"SOE - State-Owned Entity";2012;"CDB";25;"Government";0;0;0;1
+"SMEs Loan";"Ethiopia";"ETH";"Ethiopia Development Bank";"SOE - State-Owned Entity";2012;"CDB";25;"Government";0;0;0;1
+"SMEs Loan";"Ethiopia";"ETH";"Ethiopia Development Bank";"SOE - State-Owned Entity";2012;"CDB";25;"Government";0;0;0;1
+"SMEs Development Loan";"Ethiopia";"ETH";"Development Bank of Ethiopia";"SOE - State-Owned Entity";2013;"CDB";25;"Government";0;0;0;1
+"SMEs Development Loan";"Ethiopia";"ETH";"Development Bank of Ethiopia";"SOE - State-Owned Entity";2013;"CDB";25;"Government";0;0;0;1
+"Gambia National Broadband Network Project";"Gambia";"GMB";"Government";"NG - National Government";2018;"ExImBank";25;"Telecom";0;0;0;1
+"E-Government Project";"Togo";"TGO";"Government";"NG - National Government";2010;"ExImBank";25;"Telecom";0;0;0;1
+"Sokode Electric Transformer Station Project";"Togo";"TGO";"Government";"NG - National Government";2013;"ExImBank";25;"Power";0;0;0;1
+"Government complex building Construction";"Zambia";"ZMB";"Government";"NG - National Government";2009;"ExImBank";25;"Government";0;0;0;1
+"294 MW Koukoutamba hydro project";"Guinea";"GIN";"Government";"NG - National Government";2019;"ExImBank";812;"Power";NA;NA;NA;NA
+"Gurara II hydropower project";"Nigeria";"NGA";"Government";"NG - National Government";2019;"ExImBank";1000;"Power";NA;NA;NA;NA
+"Hunutlu Thermal Power Plant Project with ICBC, BOC";"Turkey";"TUR";"Government";"NG - National Government";2019;"CDB";1381;"Power";NA;NA;NA;NA
+"N1 Highway Rehabilitation and Conakry Roads (with ICBC), 96km";"Guinea";"GIN";"Government";"NG - National Government";2018;"ExImBank";508;"Transport";NA;NA;NA;NA
+"Kafue Gorge Lower Hydrpower Project; 750MW (with ICBC)";"Zambia";"ZMB";"Kafue Gorge Lower Power Development (KGL)(SPV; Zambia 100%)";"SOE - State-Owned Entity";2017;"ExImBank";1700;"Power";NA;NA;NA;NA
